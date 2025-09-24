@@ -3,12 +3,16 @@ layout: profile
 name: Oliver Ruebel
 organization: Lawrence Berkeley National Laboratory
 title: AI for protein structure prediction and analysis
+field: Computational biosciences and machine learning
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); Machine Learning
   and AI
+status: Accept
 abstract: The goal of this project is to enhance the analysis and prediction of protein
   structures from sequence and experimental data.
+desired: Machine learning Protein structure analysis
+email: oruebel@lbl.gov
 ---
 
 ## Additional Information

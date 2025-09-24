@@ -3,9 +3,11 @@ layout: profile
 name: Talita Perciano
 organization: Lawrence Berkeley National Laboratory
 title: Probabilistic Graphical Deep Learning Field
+field: Quantum computing, computer science
 topics: Machine Learning and AI, Data Science (i.e., data analytics, data management
   &amp; storage systems, visualization); Machine Learning and AI; Quantum Computing
   and Information Science
+status: Accept
 abstract: A graphical model or probabilistic graphical model (PGM) or structured probabilistic
   model is a probabilistic model for which a graph expresses the conditional dependence
   structure between random variables. They are commonly used in probability theory,
@@ -24,6 +26,9 @@ abstract: A graphical model or probabilistic graphical model (PGM) or structured
   template matching). We also aim to develop innovative quantum machine learning algorithms
   targeting/combining NISQ devices and HPC. We aim to develop concrete proof-of-concept
   tools that run on NISQ devices.
+desired: 'Related interests: Python and C++ programming languages, data analysis,
+  statistics, applied mathematics, image processing, deep learning, machine learning.'
+email: tperciano@lbl.gov
 ---
 
 ## Additional Information

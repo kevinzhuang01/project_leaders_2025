@@ -3,10 +3,12 @@ layout: profile
 name: Mark Paris
 organization: Los Alamos National Laboratory
 title: Advanced computational methods for applied nuclear reaction theory
+field: Theoretical and computational nuclear physics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); High-Performance
   Computing; Machine Learning and AI
+status: Accept
 abstract: The Theoretical Division at Los Alamos National Laboratory brings a diverse
   array of expertise to understanding nuclear fusion and fission reactions -- the
   fundamental, underlying component of systems driven by nuclear fuels. Exciting,
@@ -25,6 +27,9 @@ abstract: The Theoretical Division at Los Alamos National Laboratory brings a di
   with optimization methods, to more efficiently investigate reactions of importance
   for these sorts of applications in fundamental science, nuclear safety and security,
   and nuclear energy.
+desired: Interest in, excitement about, and experience in solving physics problems
+  with computers are all welcome.
+email: mparis@lanl.gov
 ---
 
 ## Additional Information

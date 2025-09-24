@@ -3,9 +3,11 @@ layout: profile
 name: George Michelogiannakis
 organization: Lawrence Berkeley National Laboratory
 title: Computer architecture, system profiling, and networking
+field: Computer architecture, networking, data analysis
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Accept
 abstract: The umbrella of my research is high performance computing (supercomputers)
   as well as applications. The task broadly is to design the supercomputers for 10-20
   years from now. There are a few potential topics that look for adjacent skills.
@@ -19,6 +21,10 @@ abstract: The umbrella of my research is high performance computing (supercomput
   topics is also possible and encouraged. In addition, if faculty or students propose
   interesting and related topics that will also be great because it can lead to new
   areas of research.
+desired: 'A subset of the following: Computer architecture, hardware description languages,
+  data analysis with python or similar, profiling systems, network knowledge, use
+  of simulators for networks.'
+email: mixelogj13@yahoo.co.uk
 ---
 
 ## Additional Information

@@ -3,10 +3,12 @@ layout: profile
 name: Khaled Ibrahim
 organization: Lawrence Berkeley National Laboratory
 title: HPC Workflows Performance Modeling and Tuning
+field: Performance Modeling, tuning, and Optimization
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing; Machine Learning and
   AI
+status: Accept
 abstract: In the performance and algorithms group, we tackle various applications
   and workflow performance optimization problems, using refactoring techniques of
   these codes to leverage DOE supercomputing machines efficiently. We aim to enable
@@ -18,6 +20,9 @@ abstract: In the performance and algorithms group, we tackle various application
   code in leading DOE computational environments. We also encourage application developers
   with performance challenge to engage with us to apply our developed methods in improving
   the performance of their code in leading DOE computational environments.
+desired: Skills in performance modeling, profiling, and tuning. Familiarity with HPC
+  programming models and/or with DL and ML frameworks.
+email: kzibrahim@lbl.gov
 ---
 
 ## Additional Information

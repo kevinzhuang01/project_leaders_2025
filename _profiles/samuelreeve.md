@@ -3,8 +3,10 @@ layout: profile
 name: Samuel Reeve
 organization: Oak Ridge National Laboratory
 title: Particle-based performance comparisons with Cabana
+field: Materials science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing
+status: Accept
 abstract: Particles (just points in a box) can be used to simulate a huge range of
   different processes and phenomena, from atoms to galaxies. Because there are so
   many similarities in writing simulation codes, improving the computational performance
@@ -16,6 +18,10 @@ abstract: Particles (just points in a box) can be used to simulate a huge range 
   HPC platforms (or even potentially building a new Cabana-based code for a method
   of interest). Recent codes have focused heat transport, fracture and failure in
   materials, plasma physics, cosmology, and atomic behavior.
+desired: Any programming (especially C++) experience would be highly useful; interest
+  in GPU computing (especially Kokkos); experience or interest in materials (from
+  any background or domain science)
+email: reevest@ornl.gov
 ---
 
 ## Additional Information

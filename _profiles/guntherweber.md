@@ -3,8 +3,10 @@ layout: profile
 name: Gunther Weber
 organization: Lawrence Berkeley National Laboratory
 title: Visualization of Scientific Machine Learning Models
+field: Data visualization; machine learning
 topics: Data Science (i.e., data analytics, data management &amp; storage systems,
   visualization); High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: Scientific Machine Learning (SciML) is a growing research area that uses
   innovative machine learning solutions to obtain scientific insights from large data
   sets. Understanding these novel tools requires analyzing high-dimensional functions
@@ -22,6 +24,9 @@ abstract: Scientific Machine Learning (SciML) is a growing research area that us
   goal of this project is to develop new visualization and data analysis approaches,
   e.g., based on topological data analysis, to help better understand these functions
   and as a result SciML models.
+desired: data visualization, dimension reduction, multidimensional scaling, topological
+  data analysis, machine learning, user interface design
+email: ghweber@lbl.gov
 ---
 
 ## Additional Information

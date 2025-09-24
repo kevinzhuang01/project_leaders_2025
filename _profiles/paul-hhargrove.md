@@ -3,9 +3,11 @@ layout: profile
 name: Paul H. Hargrove
 organization: Lawrence Berkeley National Laboratory
 title: UPC++/GASNet for lightweight communication and global address space support
+field: programming models, languages and libraries for high-performance computing
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Pre-Match+Workshop
 abstract: Scientists use supercomputers to tackle some of the most challenging problems,
   ranging from biomedical simulations of COVID-19 spread in human lungs, to performing
   metagenome assembly based on environmental samples as a way to study climate change.
@@ -20,6 +22,8 @@ abstract: Scientists use supercomputers to tackle some of the most challenging p
   patterns. If your parallel program currently runs only in shared memory and you
   are interested in scaling up to larger, distributed-memory systems, we can help
   determine a path toward scalable performance on larger systems using UPC++.
+desired: Parallel programming in C++
+email: phhargrove@lbl.gov
 ---
 
 ## Additional Information

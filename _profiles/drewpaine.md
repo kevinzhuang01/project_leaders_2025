@@ -3,10 +3,13 @@ layout: profile
 name: Drew Paine
 organization: Lawrence Berkeley National Laboratory
 title: Understanding Scientific User Needs
+field: User Experience (UX), Computer Supported Cooperative Work (CSCW), Human Computer
+  Interaction (HCI)
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Data Science (i.e., data analytics, data management
   &amp; storage systems, visualization); High-Performance Computing
+status: Accept
 abstract: User Experience (UX) research &amp; design is the practice of investigating
   the real world needs of humans and designing solutions to improve their ability
   to use computational systems. UX work at LBNL investigates the needs of scientific
@@ -17,6 +20,8 @@ abstract: User Experience (UX) research &amp; design is the practice of investig
   and reframing the software production process. UX also impacts the sustainability
   of software by improving the likelihood that it will develop a user base who are
   vital to its continued existence.
+desired: qualitative research experience is ideal research question / hypothesis development
+email: pained@lbl.gov
 ---
 
 ## Additional Information

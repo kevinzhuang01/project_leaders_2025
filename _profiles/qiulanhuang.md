@@ -3,8 +3,10 @@ layout: profile
 name: Qiulan Huang
 organization: Brookhaven National Laboratory
 title: Data Popularity and Data placement Optimization for big data Analysis
+field: Large scale storage systems, storage optimization and data analytics
 topics: Data Science (i.e., data analytics, data management &amp; storage systems,
   visualization); Machine Learning and AI
+status: Accept
 abstract: Scientific experiments and computations, especially those in NP &amp; HEP
   programs, are generating and accumulating data at an unprecedented rate. Big data
   provides opportunities for new scientific discoveries. Nevertheless, for the Scientific
@@ -18,6 +20,9 @@ abstract: Scientific experiments and computations, especially those in NP &amp; 
   assumes critical importance in today's data-driven world, as it holds the potential
   to significantly improve data analysis efficiency, enhance decision-making processes,
   and fuel innovation across a diverse range of domains.
+desired: High-performance storage system(dCache, Lustre), big data analytics, AI/prediction
+  modeling, monitoring tools like ELK, Python, C/C++, Java, Linux
+email: qhuang@bnl.gov
 ---
 
 ## Additional Information

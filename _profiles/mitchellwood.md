@@ -3,9 +3,11 @@ layout: profile
 name: Mitchell Wood
 organization: Sandia National Laboratories
 title: Data-driven Models for Material Science and Beyond
+field: Multiscale Materials Modeling
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing;
   Machine Learning and AI; National Security
+status: Pre-Match+Workshop
 abstract: Experiments to study materials extreme environments (temperature, pressure,
   strain rate) are challenging and time consumptive, therefore we turn to modeling
   tools to refine and predict outcomes beforehand. Ideal computational models balance
@@ -20,6 +22,8 @@ abstract: Experiments to study materials extreme environments (temperature, pres
   in extremes of temperature, pressure and radiation exposure. Here we aim to break
   the normal accuracy-cost tradeoffs by using machine learned models that scale to
   the largest supercomputing platforms in the world.
+desired: Material Science, Physics, Chemistry, Python, High Performance Computing
+email: mitwood@sandia.gov
 ---
 
 ## Additional Information

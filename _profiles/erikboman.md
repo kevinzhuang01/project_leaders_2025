@@ -3,11 +3,13 @@ layout: profile
 name: Erik Boman
 organization: Sandia National Laboratories
 title: Novel preconditioners to speed up linear solvers
+field: Applied mathematics, computer science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Accept
 abstract: The most expensive part of many simulations is the linear solves. Preconditioners
   are critical to accelerate iterative solvers for large, sparse problems. We will
   develop and implement algebraic preconditioners that can be used as a black-box
@@ -17,6 +19,9 @@ abstract: The most expensive part of many simulations is the linear solves. Prec
   obtained, a research publication is a strong possibility. The software may potentially
   become part of the Trilinos framework, and thus accessible to thousands of researchers
   world-wide.
+desired: Numerical linear algebra, computer programming, familiar with version control
+  (e.g., git/github), some experience with GPU and/or parallel programming desired.
+email: egboman@sandia.gov
 ---
 
 ## Additional Information

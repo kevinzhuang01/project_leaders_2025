@@ -3,11 +3,13 @@ layout: profile
 name: Li Tang
 organization: Los Alamos National Laboratory
 title: High-Performance Computing with Python
+field: High-Performance Computing
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Under Evaluation
 abstract: LANL's Venado, the first NVIDIA Grace-Hopper supercomputer in the US, will
   be ready in early 2024. NVIDIA's Grace-Hopper integrates its latest Grace CPU and
   H100 GPU on the same chip for faster CPU-GPU data movement, and Venado provides
@@ -20,6 +22,8 @@ abstract: LANL's Venado, the first NVIDIA Grace-Hopper supercomputer in the US, 
   GPUs, we will evaluate an innovative HPC programming paradigm, programming physics
   simulations using NumPy, by accelerating LANL's physics simulations on hundreds
   of Venado GPU nodes.
+desired: Python, NumPy
+email: ltang@lanl.gov
 ---
 
 ## Additional Information

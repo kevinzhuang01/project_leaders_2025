@@ -3,8 +3,10 @@ layout: profile
 name: Tim Waters
 organization: Los Alamos National Laboratory
 title: Radiation-MHD modeling of accreting black holes
+field: Magnetohydrodynamics and radiation hydrodynamics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing
+status: Accept
 abstract: I am interested in pursuing collaborations to work on topics in radiation-MHD
   modeling for black hole astrophysics. Specific projects include deriving dispersion
   relations for the linearized radiation-MHD equations, calculating the observables
@@ -13,6 +15,9 @@ abstract: I am interested in pursuing collaborations to work on topics in radiat
   range from semi-analytic, requiring only knowledge of basic complex function theory
   and python programming, to fully numerical, requiring knowledge of C++ and high-performance
   computing.
+desired: Python or C++ programming, courses on plasma physics or MHD, experience running
+  hydrodynamical simulations, interest in learning high performance computing.
+email: waters@lanl.gov
 ---
 
 ## Additional Information

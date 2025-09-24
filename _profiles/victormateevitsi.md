@@ -3,10 +3,12 @@ layout: profile
 name: Victor Mateevitsi
 organization: Argonne National Laboratory
 title: Digital Twins
+field: Digital Twins
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Data Science (i.e., data analytics, data management
   &amp; storage systems, visualization); High-Performance Computing
+status: Pre-Match+Workshop
 abstract: Robotics is changing the way new technologies are manufactured, researched,
   and developed. Robots can operate at high speed, with infinite precision, and without
   fatigue. Thus, they are ideal for repetitive work in hazardous environments like
@@ -22,6 +24,8 @@ abstract: Robotics is changing the way new technologies are manufactured, resear
   tests and simulations, gather sensor data, and improve their design. Once they are
   satisfied with the results, they can request the physical replica of the robotic
   laboratory to assemble the reactor and perform the pre-programmed tests.
+desired: Augmented/Virtual Reality Robotics
+email: vmateevitsi@anl.gov
 ---
 
 ## Additional Information

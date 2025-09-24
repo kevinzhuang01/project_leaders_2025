@@ -3,10 +3,12 @@ layout: profile
 name: Neil Getty
 organization: Argonne National Laboratory
 title: Vision Language Action Models for Robotic Surgery
+field: AI, Robotics, LLM, Medicine
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); Machine Learning
   and AI
+status: Accept
 abstract: Robotic surgery presents many motivating challenges for computing research.
   Robotic surgery is an interface between surgeons and patients, much in the way motor
   vehicles are becoming less mechanic, and more of an interface between drivers and
@@ -20,6 +22,9 @@ abstract: Robotic surgery presents many motivating challenges for computing rese
   tracking and kinematic estimation, and skill estimation applied to robotic surgery.
   We are particularly interested in exploring foundation models, vision language,
   and vision language action models for robotic surgery tasks.
+desired: Programming (python, pytorch, cv2), data, machine learning, deep learning,
+  biomedicine, computer vision
+email: ngetty@anl.gov
 ---
 
 ## Additional Information

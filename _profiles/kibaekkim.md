@@ -3,7 +3,9 @@ layout: profile
 name: Kibaek Kim
 organization: Argonne National Laboratory
 title: Federated Learning at Edge
+field: machine learning, edge computing
 topics: Machine Learning and AI
+status: Accept
 abstract: Federated learning (FL) is a method where multiple devices train machine
   learning models locally on their own data, and then collaboratively refine a shared
   model by exchanging updates, without directly sharing the actual data. This project
@@ -12,6 +14,8 @@ abstract: Federated learning (FL) is a method where multiple devices train machi
   with multiple scientists at the lab, the participants will develop, analyze, and
   test the FL model and training algorithms on high-performance computing cluster
   first and then on the edge devices.
+desired: Experience with python, PyTorch, machine learning.
+email: kimk@anl.gov
 ---
 
 ## Additional Information

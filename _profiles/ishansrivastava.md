@@ -3,9 +3,11 @@ layout: profile
 name: Ishan Srivastava
 organization: Lawrence Berkeley National Laboratory
 title: Multiscale Modeling of Complex Fluids and Multiphase Flows
+field: Computational Fluid Dynamics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing;
   Machine Learning and AI
+status: Accept
 abstract: We are developing numerical algorithms and computational models to simulate
   the dynamics of particulate materials, complex fluids and multiphase flows. The
   proposed approach involves integrating a particle-scale representation such as the
@@ -17,6 +19,10 @@ abstract: We are developing numerical algorithms and computational models to sim
   high performance computing (HPC) platforms. Another goal of this project is to conduct
   large-scale simulations of complex fluids and multiphase flows on HPC platforms
   in application spaces such as bioreactors and advanced manufacturing.
+desired: Basic knowledge of C++ programming and Python scripting. Background in Applied
+  Mathematics, Physics, or Physical Sciences/Engineering. Basic understanding of applied
+  mathematics, computational methods, scientific computing, and fluid dynamics.
+email: isriva@lbl.gov
 ---
 
 ## Additional Information

@@ -3,9 +3,11 @@ layout: profile
 name: Justin Wozniak
 organization: Argonne National Laboratory
 title: HPC Workflow Performance
+field: HPC, Workflows
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software)
+status: Accept
 abstract: 'High Performance Computing (HPC) workflows combine physical simulations
   with machine learning and other analysis to address scientific problems in modeling
   the spread of COVID-19, designing precision cancer treatments, and other areas.
@@ -23,6 +25,8 @@ abstract: 'High Performance Computing (HPC) workflows combine physical simulatio
   are a popular choice. The system is an excellent environment in which to learn about
   programming language design/implementation, distributed computing, and systems software
   in general.'
+desired: C language and Linux environment.
+email: woz@anl.gov
 ---
 
 ## Additional Information

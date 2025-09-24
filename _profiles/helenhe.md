@@ -3,9 +3,11 @@ layout: profile
 name: Helen He
 organization: Lawrence Berkeley National Laboratory
 title: OpenMP Common Core with Python
+field: High Performance Computing Programming Model
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Accept
 abstract: "OpenMP is the de facto standard for writing parallel applications for shared
   memory computers. Born ~25 years ago in 1997, it runs on just about every shared
   memory platform on the market. Itâ€™s also very complicated with the Language Specification
@@ -20,6 +22,8 @@ abstract: "OpenMP is the de facto standard for writing parallel applications for
   SRP project is to learn OpenMP Common Core first, then install PyOMP on the NERSC
   system or your own laptop and implement selected OpenMP Common Core example codes
   in Python."
+desired: Python, HPC parallel programming concept, C/C++ or Fortran
+email: yhe@lbl.gov
 ---
 
 ## Additional Information

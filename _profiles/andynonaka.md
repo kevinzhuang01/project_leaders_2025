@@ -3,9 +3,11 @@ layout: profile
 name: Andy Nonaka
 organization: Lawrence Berkeley National Laboratory
 title: Multiphysics and Multiscale Modeling with AMReX
+field: Modeling and Simulation
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing;
   Machine Learning and AI
+status: Pre-Match+Workshop
 abstract: The Center for Computational Sciences (CCSE) and Engineering at LBL is home
   to applied mathematicians, computer scientists, and domain scientists that perform
   modeling and simulation of complex PDE systems across a variety applications. We
@@ -15,6 +17,9 @@ abstract: The Center for Computational Sciences (CCSE) and Engineering at LBL is
   and machine learning algorithms. Active applications in CCSE include astrophysics,
   cosmology, multiphase flow, accelerators, plasma physics, microelectronics, atmospheric
   flows, oceanic flows, microscale flow, and stochastic mesoscale systems.
+desired: Numerical analysis, numerical ODEs and PDEs, C++, python, parallel programming,
+  GPU programming, domain science expertise.
+email: AJNonaka@lbl.gov
 ---
 
 ## Additional Information

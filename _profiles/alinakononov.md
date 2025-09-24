@@ -3,9 +3,11 @@ layout: profile
 name: Alina Kononov
 organization: Sandia National Laboratories
 title: Quantum Dynamics Simulations
+field: Computational Physics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Quantum Computing and Information
   Science
+status: Accept
 abstract: Quantum dynamical simulations can predict important properties like opacity
   and conductivity that govern how materials interact with light and electric fields.
   In addition to materials engineering applications like solar cells, these properties
@@ -17,6 +19,11 @@ abstract: Quantum dynamical simulations can predict important properties like op
   the numerical behavior of dynamical simulations of model systems and help inform
   methodological improvements and limitations for both classical and quantum computers,
   or explore another relevant aspect of mutual interest.
+desired: Proficiency with Python (or another programming language) and familiarity
+  with undergraduate-level quantum physics will be helpful. Interest in dynamical
+  systems, quantum computing, materials science, plasma physics, or related areas
+  is desirable.
+email: akonono@sandia.gov
 ---
 
 ## Additional Information

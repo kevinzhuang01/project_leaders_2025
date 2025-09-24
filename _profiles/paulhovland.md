@@ -3,9 +3,11 @@ layout: profile
 name: Paul Hovland
 organization: Argonne National Laboratory
 title: ML-based compression for derivative computation
+field: Automatic differentiation
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Machine Learning and AI
+status: Accept
 abstract: Efficient computation of derivatives for both computational science and
   machine learning applications often relies on the so-called reverse mode of automatic
   differentiation (autodiff). Unfortunately, reverse-mode autodiff requires saving
@@ -13,6 +15,9 @@ abstract: Efficient computation of derivatives for both computational science an
   This project will investigate whether lossy compression techniques based on machine
   learning can be used to compress this data and reduce memory requirements while
   maintaining suitable levels of accuracy in the derivative computations.
+desired: Basic understanding of derivatives (first semester calculus) Programming
+  in python or a related language Interest in machine learning
+email: hovland@mcs.anl.gov
 ---
 
 ## Additional Information

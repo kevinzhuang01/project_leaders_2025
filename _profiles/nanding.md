@@ -4,9 +4,11 @@ name: Nan Ding
 organization: Lawrence Berkeley National Laboratory
 title: Explore the performance of GPU-initiated communications and CPU-initiated communication
   on heterogeneous architectures
+field: HPC Communications
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Accept
 abstract: Effective programming models offer programmers the ability to harness the
   capabilities of the underlying platform. For decades, the CPU-initiated Message
   Passing Interface (MPI) has become a de facto standard for communication among processes
@@ -18,6 +20,8 @@ abstract: Effective programming models offer programmers the ability to harness 
   communication by using or creating representative benchmarks on Perlmutter, Frontier,
   and possibly Aurora. The work may includes writing benchmark using CPU- and GPU-initiated
   communication.
+desired: knows MPI programming Passion about research work
+email: nanding@lbl.gov
 ---
 
 ## Additional Information

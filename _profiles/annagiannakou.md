@@ -3,11 +3,13 @@ layout: profile
 name: Anna Giannakou
 organization: Lawrence Berkeley National Laboratory
 title: Informing the next generation of HPC networking using intelligent data analytics
+field: computer science, networking, machine learning
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Data Science (i.e., data analytics, data management
   &amp; storage systems, visualization); High-Performance Computing; Machine Learning
   and AI
+status: Accept
 abstract: Scientific discovery depends on analyzing large amounts of experimental
   data that are produced from different instruments scattered around the world. In
   the next 10 years the amount of experimental data produced is expected to increase
@@ -19,6 +21,8 @@ abstract: Scientific discovery depends on analyzing large amounts of experimenta
   HPC facilities in the world. In this project we are looking for someone to help
   us understand information from different sources and ultimately unveil the key to
   faster, next generation HPC networks.
+desired: coding data analysis systems communication presentation
+email: agiannakou@lbl.gov
 ---
 
 ## Additional Information

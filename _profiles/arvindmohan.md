@@ -3,8 +3,10 @@ layout: profile
 name: Arvind Mohan
 organization: Los Alamos National Laboratory
 title: Machine Learning for Surrogate Modeling in Earth Sciences
+field: Machine Learning and Physical Sciences
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Machine Learning and AI
+status: Pre-Match+Workshop
 abstract: Climate change is already causing more frequent and severe extreme weather
   events, such as hurricanes, floods, droughts, and wildfires. These events can have
   devastating impacts on communities, livelihoods, and infrastructure. Machine learning
@@ -17,6 +19,10 @@ abstract: Climate change is already causing more frequent and severe extreme wea
   to making ML models helpful in this area, and the summer project will focus on developing
   methods to address this issue. The topic is open-ended, and the student will have
   the opportunity to pick a specific direction of their liking.
+desired: 1) Experience and knowledge of fluid mechanics and turbulence. 2) Good understanding
+  of partial and ordinary differential equations 3) Experience with neural networks
+  is desired.
+email: arvindm@lanl.gov
 ---
 
 ## Additional Information

@@ -3,8 +3,10 @@ layout: profile
 name: Kristofer Bouchard
 organization: Lawrence Berkeley National Laboratory
 title: Foundation model for proteins
+field: AI and biology
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.)
+status: Accept
 abstract: Foundation models are massive (&gt;1B parameters) deep networks that have
   been pre-trained on large and diverse data sets and can then be transfer-learned
   to other relevant tasks. Salient examples include GPT-4, DALL-E2, etc., While this
@@ -15,6 +17,8 @@ abstract: Foundation models are massive (&gt;1B parameters) deep networks that h
   model could then be used as the basis for, e.g., generating novel protein sequences
   with enhanced functionality, inferring atomic structure from SAXS data, or inferring
   the function of newly discovered proteins.
+desired: pytorch, large-language models, transformers, graph neural networks,
+email: kebouchard@lbl.gov
 ---
 
 ## Additional Information

@@ -3,9 +3,11 @@ layout: profile
 name: Benjamin M. Feinberg
 organization: Sandia National Laboratories
 title: Software and System Architectures for Analog Linear Algebra Accelerators
+field: Computer Systems
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Machine Learning and AI; National Security
+status: Accept
 abstract: Analog computing has significant potential to enable new applications on
   autonomous systems by providing order-of-magnitude improvements in computational
   efficiency. Unfortunately, most of the work on analog hardware has focused on device
@@ -20,6 +22,9 @@ abstract: Analog computing has significant potential to enable new applications 
   with both application and circuit/device experts to ensure that the developed toolchain
   is useful for application developers and provide feedback on architectural challenges
   that could be mitigated at the circuit or device level.
+desired: "-Experience with C/C++ -Basic knowledge of computer architecture, compilers,
+  or programming models -Interest in novel computing concepts"
+email: bfeinbe@sandia.gov
 ---
 
 ## Additional Information

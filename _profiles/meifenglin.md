@@ -3,11 +3,13 @@ layout: profile
 name: Meifeng Lin
 organization: Brookhaven National Laboratory
 title: Exascale Computing for High Energy Physics - Addressing the Portability Challenge
+field: High Performance Computing, Physics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Accept
 abstract: Computing plays an essential role in High Energy Physics (HEP) research.
   From the ab initio theory calculations using numerical techniques such as lattice
   QCD, to detector simulations and data analysis for the particle physics experiments
@@ -25,6 +27,8 @@ abstract: Computing plays an essential role in High Energy Physics (HEP) researc
   efficiently on multiple architectures, and the ways to address it. The participants
   will be exposed to both the physics motifs and computational challenges in high
   energy physics.
+desired: Computer Science C++ Programming High Performance Computing Physics
+email: mlin@bnl.gov
 ---
 
 ## Additional Information

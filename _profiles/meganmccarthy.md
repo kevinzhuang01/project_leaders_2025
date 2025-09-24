@@ -4,8 +4,10 @@ name: Megan McCarthy
 organization: Sandia National Laboratories
 title: Accelerating machine-learned interatomic potential development for nanoscale
   materials science
+field: Computational materials science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.)
+status: Accept
 abstract: Our group uses a combination of atomistic multiscale simulation methods,
   paired with machine learning techniques, to create powerful near-quantum-accurate
   models for atomic interactions. These models are called machine-learned interatomic
@@ -22,6 +24,9 @@ abstract: Our group uses a combination of atomistic multiscale simulation method
   of interatomic potential development itself, with an aim to speed up production
   of these machine-learned potentials and thus accelerate materials science discovery.
   The specific project would be adjusted to the student's background and interests.
+desired: Materials science and engineering (all specialties welcome), coding / programming,
+  data science
+email: megmcca@sandia.gov
 ---
 
 ## Additional Information

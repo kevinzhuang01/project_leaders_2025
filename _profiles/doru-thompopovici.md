@@ -3,9 +3,11 @@ layout: profile
 name: Doru Thom Popovici
 organization: Lawrence Berkeley National Laboratory
 title: Hardware Software Co-Design
+field: Computer Science
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Pre-Match+Workshop
 abstract: The hardware landscape is constantly changing to match the needs of scientific
   applications. CPUs have provided much of the compute power, however recently the
   focus has shifted towards highly parallel GPUs and specialized units customized
@@ -22,6 +24,9 @@ abstract: The hardware landscape is constantly changing to match the needs of sc
   space and offer solutions for various scientific applications in a short amount
   of time, whether those solutions are all in software or whether some components
   make use of specialized hardware.
+desired: C/C++ background, a little bit of GPU programming, enthusiasm to get hands
+  dirty and benchmark algorithms and systems
+email: dtpopovici@lbl.gov
 ---
 
 ## Additional Information

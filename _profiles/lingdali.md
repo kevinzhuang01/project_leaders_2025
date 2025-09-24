@@ -4,9 +4,11 @@ name: Lingda Li
 organization: Brookhaven National Laboratory
 title: Building a Program Database to Facilitate Machine Learning-based Computing
   Research
+field: Computer Science
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Machine Learning and AI
+status: Accept
 abstract: Machine learning (ML) has shown great success in many domains, and increasing
   efforts are applying ML in the field of computer science and engineering, for instance,
   to design more efficient hardware and software. Due to its data driven nature, it
@@ -23,6 +25,10 @@ abstract: Machine learning (ML) has shown great success in many domains, and inc
   sharp their programming skills and benefit their future careers in both academia
   and industry, giving the fact that these coding exercise websites are the de facto
   means to prepare technical interviews.
+desired: Major in computer science/engineering or related fields; proficiency at one
+  or more compilable programming languages (e.g., C/C++); knowledgeable or interest
+  to learn about computer hardware/architecture.
+email: lli@bnl.gov
 ---
 
 ## Additional Information

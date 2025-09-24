@@ -3,8 +3,10 @@ layout: profile
 name: Hong Zhang
 organization: Argonne National Laboratory
 title: Scientific Computing using the PETSc/TAO Library on Exascale Machines
+field: HPC
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing
+status: Accept
 abstract: Robust, efficient, and scalable numerical solvers for simulations based
   on partial differential equations (PDEs) and networks are at the heart of computational
   science. PETSc, the Portable, Extensible Toolkit for Scientific Computation (https://petsc.org),
@@ -21,6 +23,8 @@ abstract: Robust, efficient, and scalable numerical solvers for simulations base
   hands-on numerical programming experience on state- of-the-art parallel computers.
   Students will apply the algorithms and techniques learned to a project in either
   their own field (particularly encouraged) or suggested by the mentor.
+desired: Mathematical understanding, computer coding skills, motivation and hard working
+email: hzhang@mcs.anl.gov
 ---
 
 ## Additional Information

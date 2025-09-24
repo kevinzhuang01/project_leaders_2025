@@ -3,8 +3,10 @@ layout: profile
 name: Benjamin Priest
 organization: Lawrence Livermore National Laboratory
 title: HPC-scale data science for applications
+field: high performance computing, scientific computing, statistics, machine learning
 topics: Data Science (i.e., data analytics, data management &amp; storage systems,
   visualization); High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: Modern Department of Energy science missions from cosmology to biosecurity
   to climate to computer security to fusion are collecting increasingly enormous datasets
   whose exploitation requires novel approaches and algorithms. For example, the Vera
@@ -20,6 +22,10 @@ abstract: Modern Department of Energy science missions from cosmology to biosecu
   problems. We expect the project to involve collaborating with several subject matter
   experts depending on the specifics of the task, which could include physicists,
   applied mathematicians, computer scientists, and statisticians.
+desired: Python and/or C++, high performance computing, statistics and/or graph algorithms,
+  applied mathematics, interest in applications such as space, climate, or network
+  analysis.
+email: priest2@llnl.gov
 ---
 
 ## Additional Information

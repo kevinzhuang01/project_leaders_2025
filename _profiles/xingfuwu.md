@@ -3,10 +3,12 @@ layout: profile
 name: Xingfu Wu
 organization: Argonne National Laboratory
 title: Autotuning Scientific Applications at Scale
+field: HPC, ML
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing; Machine Learning and
   AI
+status: Accept
 abstract: As we enter the exascale computing era, efficiently utilizing power and
   optimizing the performance of scientific software under power and energy constraints
   are challenging. Scientific software developers often rely on HPC systems with the
@@ -23,6 +25,9 @@ abstract: As we enter the exascale computing era, efficiently utilizing power an
   their applications efficiently on the target systems. This approach not only optimizes
   scientific software for efficient execution and energy efficiency but also saves
   considerable energy on exascale supercomputers at DOE leadership computing facilities.
+desired: 'Desired relevant skills: python and any programming language (C, or Fortran,
+  C++) Bonus: Some scientific application needs fine-tune on HPC systems'
+email: xingfu.wu@anl.gov
 ---
 
 ## Additional Information

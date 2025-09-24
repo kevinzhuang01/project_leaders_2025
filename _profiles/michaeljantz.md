@@ -3,9 +3,11 @@ layout: profile
 name: Michael Jantz
 organization: Oak Ridge National Laboratory
 title: Simplified Interface to Complex Memory
+field: Software Systems
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Accept
 abstract: In recent years, multiple concurrent trends, including the proliferation
   of AI and other data-driven analyses, rising CPU core counts, and the relative stagnation
   of DRAM performance and capacity scaling, have combined to place enormous strain
@@ -21,6 +23,11 @@ abstract: In recent years, multiple concurrent trends, including the proliferati
   allows applications to view and manage heterogeneous resources directly as well
   as a high-level interface with tools and facilities to manage memory resources automatically,
   without requiring changes to application software.
+desired: We are searching for students that enjoy programming and are particular interested
+  in systems topics, such as operating systems, compilers, and/or memory allocators.
+  Experience with or interest in tools and analyses for monitoring and understanding
+  program behavior is also desired.
+email: mrjantz@utk.edu
 ---
 
 ## Additional Information

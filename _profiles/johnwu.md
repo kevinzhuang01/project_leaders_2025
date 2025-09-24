@@ -3,8 +3,10 @@ layout: profile
 name: John Wu
 organization: Lawrence Berkeley National Laboratory
 title: Effective Data Management for Large Scientific Workflows
+field: Data Management
 topics: Data Science (i.e., data analytics, data management &amp; storage systems,
   visualization); Machine Learning and AI
+status: Pre-Match+Workshop
 abstract: The Scientific Data Management (SDM) research group is broadly interested
   in enabling and accelerating scientific discoveries through effective data management
   and analysis tools and libraries. The SDM groupâ€™s research and development efforts
@@ -18,6 +20,8 @@ abstract: The Scientific Data Management (SDM) research group is broadly interes
   of publications and contributes to many widely used software systems. We have strong
   contributions to well-known I/O libraries including HDF5 and ADIOS; and are the
   primary developers of FastBit, FasTensor, and so on.
+desired: "#NAME?"
+email: kwu@lbl.gov
 ---
 
 ## Additional Information

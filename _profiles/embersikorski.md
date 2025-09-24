@@ -3,8 +3,10 @@ layout: profile
 name: Ember Sikorski
 organization: Sandia National Laboratories
 title: Material Models for Fusion Energy
+field: Atomistic Materials Modeling
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.)
+status: Accept
 abstract: Achieving nuclear fusion power on earth requires incredibly durable materials
   capable of housing a tiny sun. We can use quantum materials modeling to make predictions
   about the behavior of prospective fusion materials, without the need for experiments.
@@ -15,6 +17,9 @@ abstract: Achieving nuclear fusion power on earth requires incredibly durable ma
   performance. Project ideas include classical modeling of the fusion material, quantum
   modeling for the machine learning training set, or optimizing the code to better
   find the machine learning hyper-parameters.
+desired: Looking for students interested in applied research for nuclear energy, aerospace,
+  or other applications with extreme environments.
+email: elsikor@sandia.gov
 ---
 
 ## Additional Information

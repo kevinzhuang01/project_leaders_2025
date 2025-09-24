@@ -3,11 +3,13 @@ layout: profile
 name: Thomas Smith
 organization: Sandia National Laboratories
 title: High-Fidelity Computational Electromagnetics and Plasma Modeling
+field: Computational EM Plasma Science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: 'Computational electromagnetics and plasma physics (CEMP) are two areas
   of computational science that combine classical physics with high performance computing
   (HPC) to solve important national level problems. CEMP is a frontier in computational
@@ -23,6 +25,11 @@ abstract: 'Computational electromagnetics and plasma physics (CEMP) are two area
   of CEMP codes and asks the question "Is our model correct?" To answer this question,
   we run sub- and system level simulations using HPC and use available data to determine
   how our CEMP solutions match up and address any gaps found in our modeling.'
+desired: Training in mathematical physics and/or engineering (e.g., calculus, electromagnetics,
+  fluid dynamics, computational fluid dynamics, plasma physics), A familiarity with
+  programming in python and/or C++ is desired but not necessary, A familiarity with
+  the Linux operating system
+email: tmsmith@sandia.gov
 ---
 
 ## Additional Information

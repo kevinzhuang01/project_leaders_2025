@@ -3,9 +3,11 @@ layout: profile
 name: Liwen Wan
 organization: Lawrence Livermore National Laboratory
 title: Multiscale modeling of electrochemical interfaces
+field: Materials Science, Chemistry, Chemical Engineering, Mechanical Engineering
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing;
   Machine Learning and AI
+status: Accept
 abstract: This project aims to understand degradation at the electrolyte-electrode
   interfaces during cell preparation and electrochemical cycling. We will leverage
   various computational methods developed at LLNL to address how degradation precursors
@@ -14,6 +16,10 @@ abstract: This project aims to understand degradation at the electrolyte-electro
   In addition to the understanding of SEI formation, we will elucidate the implication
   of SEI formation to ion transport kinetics and address the impact of microstructural
   features of the SEI.
+desired: Familiarity with Linux operating system and high-performance computing environment,
+  Fundamental knowledge of general chemistry, thermodynamics, kinetics and computational
+  materials science, Basics of data analysis, Fundamentals of electrochemistry
+email: wan6@llnl.gov
 ---
 
 ## Additional Information

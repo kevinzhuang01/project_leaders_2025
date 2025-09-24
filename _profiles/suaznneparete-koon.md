@@ -3,8 +3,10 @@ layout: profile
 name: Suaznne Parete-Koon
 organization: Oak Ridge National Laboratory
 title: HPC/AI/Data Sci. Project-Based Curriculum Building
+field: HPC, AI, Data Science
 topics: Data Science (i.e., data analytics, data management &amp; storage systems,
   visualization); High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: One of the best ways to learn a new skill it to teach it. This project will
   focus on preparing introductory High-Performance Computing (HPC) material to enable
   individuals to gain foundational HPC skills for advanced computing and bridge the
@@ -21,6 +23,8 @@ abstract: One of the best ways to learn a new skill it to teach it. This project
   can harness the analytics capabilities of HPC to solve complex computational problems
   with high societal impact. We believe this project aligns with the goals of the
   SRP program in building the future workforce for HPC, AI, and Data science.
+desired: Passion to learn
+email: paretekoonst@ornl.gov
 ---
 
 ## Additional Information

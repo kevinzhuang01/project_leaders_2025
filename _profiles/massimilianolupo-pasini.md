@@ -3,12 +3,14 @@ layout: profile
 name: Massimiliano Lupo Pasini
 organization: Oak Ridge National Laboratory
 title: Surrogate models for materials science
+field: Artificial Intelligence for Materials Science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   Data Science (i.e., data analytics, data management &amp; storage systems, visualization);
   High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: Material design and discovery are crucial for the US Department of Energy
   (DOE) in order to advance energy technologies, improving efficiency, and addressing
   sustainability and environmental challenges. Exploring the space characterized by
@@ -23,6 +25,10 @@ abstract: Material design and discovery are crucial for the US Department of Ene
   the opportunity to become acquainted with the scientific challenges that the US-DOE
   is facing to achieve materials design and discovery, and appreciate the advantages
   that AI and ML can provide to this field.
+desired: The applicant should desirably be familiar with basic AI and ML concepts.
+  Familiarity with Python packages for ML (e.g., Scikit-Learn and PyTorch) is desired,
+  but not required.
+email: lupopasinim@ornl.gov
 ---
 
 ## Additional Information

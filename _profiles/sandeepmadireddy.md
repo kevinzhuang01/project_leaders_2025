@@ -3,7 +3,9 @@ layout: profile
 name: Sandeep Madireddy
 organization: Argonne National Laboratory
 title: Probabilistic Machine Learning for Scientific Data
+field: Scientific Machine Learning
 topics: Machine Learning and AI
+status: Pre-Match+Workshop
 abstract: 'ome unique challenges in scientific data that needs to be considered while
   building data-driven models are: (1) noise and uncertainty, (2) data scarcity, and
   (3) large feature spaces. Probabilistic models are a natural choice to address many
@@ -17,6 +19,8 @@ abstract: 'ome unique challenges in scientific data that needs to be considered 
   learning models for applications such as equilibrium reconstruction of plasma profiles
   in a magnetically confined fusion tokamak and detecting strong gravitational lenses
   from astronomical observations from telescopes.'
+desired: Python programming, applied mathematics/statistics
+email: smadireddy@mcs.anl.gov
 ---
 
 ## Additional Information

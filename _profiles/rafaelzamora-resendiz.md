@@ -3,9 +3,11 @@ layout: profile
 name: Rafael Zamora-Resendiz
 organization: Lawrence Berkeley National Laboratory
 title: Scaling Protein Structure Machine Learning Applications Using HPC
+field: Computational Biology
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing;
   Machine Learning and AI
+status: Pre-Match+Workshop
 abstract: Graph convolution and self-attention deep learning models have grown in
   popularity in the domain of proteomics. These machine learning approaches have been
   used in several proteomic problems including protein classification and protein-ligand
@@ -23,6 +25,12 @@ abstract: Graph convolution and self-attention deep learning models have grown i
   affinities across diverse protein and ligand databases. Methods for interpreting
   model parameters will be developed to provide biological meaningful insights that
   can help in drug design and repurposing.
+desired: 'Relevant Skills, Background or Interests: Good understanding of programming
+  and machine learning. Some understanding of parallel programming and working with
+  high performance computing systems. Interested in the application of computational
+  skills to the domain of biology and medicine. A deep desire towards improving their
+  skills of writing well-documented and reusable scientific code.'
+email: rzamoraresendiz@lbl.gov
 ---
 
 ## Additional Information

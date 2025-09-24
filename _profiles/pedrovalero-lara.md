@@ -3,9 +3,11 @@ layout: profile
 name: Pedro Valero-Lara
 organization: Oak Ridge National Laboratory
 title: Challenges/Opportunities for the Extreme Heterogeneity and HPC-AI era
+field: High Performance Computing
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Pre-Match+Workshop
 abstract: 'This project is aimed at the implementation, evaluation and optimization
   of novel performance portable and heterogeneous programming solutions for the upcoming
   extreme heterogeneity era in computing. The project includes the design of novel
@@ -15,6 +17,8 @@ abstract: 'This project is aimed at the implementation, evaluation and optimizat
   HPC and heterogeneous (CPU+GPU) architectures, ii) acquire skills in both, software
   solutions and HPC codes implementation, iii) gain experience in performance analysis
   on HPC architectures.'
+desired: Computer Science Programming Languages Linux
+email: valerolarap@ornl.gov
 ---
 
 ## Additional Information

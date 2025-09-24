@@ -3,9 +3,11 @@ layout: profile
 name: Sri Hari Krishna Narayanan
 organization: Argonne National Laboratory
 title: AI-Based Adjoints to Diagnose the Sensitivity of Ocean Models to Parameters
+field: AI, Machine Learning, Earth Sciences
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing;
   Machine Learning and AI
+status: Accept
 abstract: We are interested in understanding the sensitivities of an ocean model's
   output, to the model parameters. Estimating this sensitivity is very time consuming
   by brute force. Alternatively, adjoints have shown great promise in uncovering sensitivity
@@ -15,6 +17,8 @@ abstract: We are interested in understanding the sensitivities of an ocean model
   differentiated trivially, we have want to explore how to generate an accurate neural
   network (NN) surrogate for an ocean model. We then use our NN model to generate
   adjoint versions of the original model.
+desired: Experience in ML frameworks, models.
+email: snarayan@mcs.anl.gov
 ---
 
 ## Additional Information

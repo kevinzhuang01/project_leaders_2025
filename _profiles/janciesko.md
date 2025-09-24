@@ -3,9 +3,11 @@ layout: profile
 name: Jan Ciesko
 organization: Sandia National Laboratories
 title: Next Gen Communication APIs in HPC
+field: GPU Parallel Programming
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Accept
 abstract: Communication offloading to GPUs represents a hot topic in science and industry.
   While many algorithms could benefit from this capability in terms of performance
   and programmability, novel communication APIs are required that are more suitable
@@ -15,6 +17,8 @@ abstract: Communication offloading to GPUs represents a hot topic in science and
   Using micro-benchmarks we showcase performance and programmability differences and
   conclude this work with recommendations on future communication APIs for scientific
   computing and HPC.
+desired: Parallel Programming, GPU Programming, C++
+email: jciesko@sandia.gov
 ---
 
 ## Additional Information

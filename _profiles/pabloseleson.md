@@ -3,8 +3,10 @@ layout: profile
 name: Pablo Seleson
 organization: Oak Ridge National Laboratory
 title: Peridynamics Modeling and Simulation for Exascale Fracture Computations
+field: Applied and Computational Mathematics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing
+status: Accept
 abstract: 'Computational fracture modeling is an ongoing challenge in computational
   science and engineering. Peridynamics is a nonlocal reformulation of classical continuum
   mechanics designed to simulate fractures thus making it an attractive framework
@@ -19,6 +21,8 @@ abstract: 'Computational fracture modeling is an ongoing challenge in computatio
   This project will develop mathematical and computational methods to advance the
   state of the art of peridynamics modeling and simulation, with the end goal of enhancing
   current features of the peridynamics CabanaPD code.'
+desired: "#NAME?"
+email: selesonpd@ornl.gov
 ---
 
 ## Additional Information

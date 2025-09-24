@@ -3,11 +3,13 @@ layout: profile
 name: Russell Whitesides
 organization: Lawrence Livermore National Laboratory
 title: Future Clean Jet Fuels
+field: Combustion
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Accept
 abstract: This project will explore impacts of sustainable aviation fuels on performance
   of combustion in jet engines. We will investigate fuel property effects on combustion
   metrics such as stability, efficiency, emissions. To capture the chemical kinetic
@@ -15,6 +17,8 @@ abstract: This project will explore impacts of sustainable aviation fuels on per
   the use of high-performance computing platforms. The study can be focused on combustion
   physics, computational performance of the simulation software, or some mix of the
   two.
+desired: 'Skills: engineering or computer science Interests: Energy, climate, combustion'
+email: whitesides1@llnl.gov
 ---
 
 ## Additional Information

@@ -3,8 +3,10 @@ layout: profile
 name: Kathryn Maupin
 organization: Sandia National Laboratories
 title: Enhancing model productivity through model form error quantification
+field: Computational modeling, uncertainty quantification
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Machine Learning and AI
+status: Accept
 abstract: Despite continuing advances in statistical inversion and modeling, model
   inadequacy due to model form error remains a concern in all areas of mathematical
   modeling. The Bayesian paradigm naturally integrates uncertainties from both experimental
@@ -22,6 +24,10 @@ abstract: Despite continuing advances in statistical inversion and modeling, mod
   methods for model form error quantification that can be easily generalized for wide
   applicability. Of particular interest are methods that may enable physics discovery
   and enhance extrapolation.
+desired: 'Desired interests: Surrogate modeling and computational modeling Desired
+  skills: Proficiency in at least one programming language (preferably C, R, or python)
+  Relevant skills: Machine learning or surrogate/reduced order modeling methods'
+email: kmaupin@sandia.gov
 ---
 
 ## Additional Information

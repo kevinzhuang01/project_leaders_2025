@@ -3,10 +3,12 @@ layout: profile
 name: Carlos Fernando Gamboa
 organization: Brookhaven National Laboratory
 title: Data Storage for Scientific Experiments
+field: Distributed Data Systems
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Data Science (i.e., data analytics, data management
   &amp; storage systems, visualization)
+status: Accept
 abstract: One of the missions of the Scientific Data and Computing Center (SDCC) at
   Brookhaven National Laboratory is to provide access to storage services for a diverse
   range of High Energy Physics (HEP) scientific experiments, including LHC-ATLAS[1],
@@ -21,6 +23,10 @@ abstract: One of the missions of the Scientific Data and Computing Center (SDCC)
   Ultimately, these improvements will have a significant impact on advancing scientific
   discovery while optimizing storage resources. [1] https://home.cern/science/experiments/atlas
   [2] https://www.belle2.org [3] https://www.dunescience.org [4] https://www.dcache.org
+desired: 'Knowledge of: -Scripting languages like Python -Programing languages like
+  Java -Operational Systems like Linux -Databases (Relational or non) -Document databases
+  like Elasticserach -Artificial Intelligence techniques'
+email: cgamboa@bnl.gov
 ---
 
 ## Additional Information

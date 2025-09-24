@@ -3,11 +3,13 @@ layout: profile
 name: Philipp Edelmann
 organization: Los Alamos National Laboratory
 title: A modern approach to implicit fluid dynamics
+field: Computational Fluid Dynamics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Accept
 abstract: Computational fluid dynamics (CFD) is used every day in many fields of science
   from biology to astrophysics. Yet simulating slow flows (compared to the speed of
   sound) is a hard problem both in terms of numerical accuracy and in terms of efficiency,
@@ -24,6 +26,14 @@ abstract: Computational fluid dynamics (CFD) is used every day in many fields of
   of the task runtime and GPU vendor library. We propose to implement a prototype
   3D CFD code using FleCSI and our own solvers library FleCSolve and test it on LANL's
   new supercomputer Vendado.
+desired: 'The most important thing for this project is an interest and enjoyment of
+  programming and numerical simulations. This is an exploratory project that can be
+  focused on different aspects of computer science, applied math, or physics depending
+  on the interests of the student. A general background in programming is required,
+  but other skills can be picked up during the project as needed. Other useful (but
+  not required) skills are: modern C++, (non)linear iterative solvers, computational
+  fluid dynamics methods, high-performance computing'
+email: pedelmann@lanl.gov
 ---
 
 ## Additional Information

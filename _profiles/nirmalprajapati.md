@@ -4,10 +4,12 @@ name: Nirmal Prajapati
 organization: Los Alamos National Laboratory
 title: Extreme scale computing through co-design of applications, algorithms, and
   architectures
+field: compilers/languages/architectures/modeling
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing; Machine Learning and
   AI
+status: Accept
 abstract: Lead scientific simulations at extreme scale through the co-design of applications,
   algorithms, and architectures. Deliver solutions for multiple science, engineering,
   and security missions including the development of methods for large-scale high
@@ -23,6 +25,11 @@ abstract: Lead scientific simulations at extreme scale through the co-design of 
   C/C++ and CUDA (language for programming GPUs) and/or HIP (language for AMD GPU
   architectures). Use profiling tools, applied machine learning techniques and code
   transformations to improve the performance of applications.
+desired: Some background or coursework in applied machine learning, code transformations,
+  compilers, programming languages, performance optimization, parallel processing
+  is preferred. Desired skills include LLMs, CNN, Python, C/C++, CUDA, OpenMP, etc.
+  but not required.
+email: prajapati@lanl.gov
 ---
 
 ## Additional Information

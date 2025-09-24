@@ -3,7 +3,9 @@ layout: profile
 name: Emil Constantinescu
 organization: Argonne National Laboratory
 title: Physics-based machine learning and uncertainty quantification
+field: ML, PDEs, numerical simulation, uncertainty quantification
 topics: Machine Learning and AI
+status: Accept
 abstract: This project aims to advance computational science by integrating numerical
   methods for solving partial differential equations (PDEs) with machine learning
   and statistics for uncertainty quantification. Traditional simulation models have
@@ -18,6 +20,8 @@ abstract: This project aims to advance computational science by integrating nume
   and advancing our understanding of nuclear physics phenomena. We want to explore
   new approaches to modeling complex systems, offering more accurate and reliable
   predictions for scientific inquiry and practical applications.
+desired: Machine Learning, Python, Numerical simulation of PDEs, uncertainty quantification
+email: emconsta@anl.gov
 ---
 
 ## Additional Information

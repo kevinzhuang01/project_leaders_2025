@@ -3,11 +3,13 @@ layout: profile
 name: Julien Loiseau
 organization: Los Alamos National Laboratory
 title: Co-Design Summer School 2024
+field: HPC
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Accept
 abstract: 'The CDSS 2023 subject will focus on modeling radiation hydrodynamics using
   the FleCSI framework. This work can be decomposed in two steps: the radiative transfer
   library and the hydrodynamics code. The hydrodynamics part will feature a mesh based
@@ -24,6 +26,10 @@ abstract: 'The CDSS 2023 subject will focus on modeling radiation hydrodynamics 
   of multiphysics applications. LANL is funding a next generation exascale supercomputer
   called Venado. The aim for the summer school is to run the simulations at scale
   on Venado, taking advantage of the NVIDIA superchip.'
+desired: 'Computer Scientists: HPC, Kokkos/CUDA/HIP, MPI. Applied Mathematicians:
+  Iterative and Multigrid Methods. Preconditioners. Physicists: Hydrodynamics, Radiative
+  Transfer (diffusion, multigroup etc), Shock Physics.'
+email: jloiseau@lanl.gov
 ---
 
 ## Additional Information

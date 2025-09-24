@@ -3,18 +3,23 @@ layout: profile
 name: Mah Kadidia Konate
 organization: Lawrence Berkeley National Laboratory
 title: Machine Learning for Jobs queue Wait time prediction
+field: Machine learning
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   Data Science (i.e., data analytics, data management &amp; storage systems, visualization);
   High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: The era of supercomputing and data science presents novel challenges and
   opportunities. Supercomputers such as Cori and Perlmutter, with their incredible
   processing power, are often tasked with running numerous complex jobs concurrently.
   Efficient management of these jobs, especially determining their queue wait times,
   is critical to optimizing the system's overall performance. This project, titled
   "Queue Wait Time Prediction of Perlmutter, aimed to address this very issue.
+desired: Experience with writing Python code, Experience with machine learning and
+  data visulization
+email: kadidiakonate@lbl.gov
 ---
 
 ## Additional Information

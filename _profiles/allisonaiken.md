@@ -3,10 +3,12 @@ layout: profile
 name: Allison Aiken
 organization: Los Alamos National Laboratory
 title: Aerosol Science
+field: Earth and Environmental Science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); Machine Learning
   and AI
+status: Accept
 abstract: Aerosols are small particles (&lt;~10 microns in diameter) that are suspended
   in a gas, like the Earthâ€™s atmosphere. These particles are central to understanding
   the water cycle and transport of nutrients within the Earth System. A complete understanding
@@ -24,6 +26,14 @@ abstract: Aerosols are small particles (&lt;~10 microns in diameter) that are su
   different aerosol regimes, the processes controlling their lifecycles, quantifying
   impacts on the radiative budget, and the sensitivity of cloud phase and precipitation
   to cloud condensation nuclei (CCN) and ice-nucleating particle (INP) concentrations.
+desired: 'Desired relevant skills include: experience and/or exposure to different
+  computing languages, e.g., Python, Igor, R, JupyterHub, etc. as well as applying
+  and/or developing statistical and mathematical algorithms, e.g., positive matrix
+  factorization, K-means clustering, machine learning/AI, etc. Examples of desired
+  interests include but are not limited to: large data science, environmental science,
+  atmospheric science, high-time resolution measurements, chemistry and mass spectrometry,
+  physics/optics, single-particle measurements, climate science.'
+email: aikenac@lanl.gov
 ---
 
 ## Additional Information

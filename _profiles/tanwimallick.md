@@ -3,7 +3,9 @@ layout: profile
 name: Tanwi Mallick
 organization: Argonne National Laboratory
 title: Spatiotemporal modeling using machine learning techniques
+field: Spatiotemporal modeling, Graph neural network, Clustering
 topics: Machine Learning and AI
+status: Pre-Match+Workshop
 abstract: Many real-world phenomena, such as traffic flow on road networks, data transfer
   on the HPC Interconnect Network, load balancing in power grids, and regional rainfall,
   are spatiotemporal in nature. These complex systems are dynamic, evolving over both
@@ -14,6 +16,8 @@ abstract: Many real-world phenomena, such as traffic flow on road networks, data
   we aim to develop and fine-tune a machine learning model for enhanced spatiotemporal
   modeling, targeting real-world phenomena like traffic flow, HPC Interconnect Network
   traffic, and regional rainfall.
+desired: Python programming, TensorFlow, or PyTorch programming
+email: tmallick@anl.gov
 ---
 
 ## Additional Information

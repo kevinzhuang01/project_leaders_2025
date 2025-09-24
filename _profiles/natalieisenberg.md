@@ -3,7 +3,9 @@ layout: profile
 name: Natalie Isenberg
 organization: Brookhaven National Laboratory
 title: Modeling and Control of Particle Accelerator Beams using Bayesian Neural Networks
+field: Surrogate modeling/AI/ML
 topics: Machine Learning and AI
+status: Accept
 abstract: 'Particle accelerators are a central tool for scientific discovery, from
   unraveling the governing laws of fundamental particles, to understanding the universe''s
   origins. Brookhaven National Laboratory is home to the Relativistic Heavy Ion Collider
@@ -21,6 +23,8 @@ abstract: 'Particle accelerators are a central tool for scientific discovery, fr
   the error inherent in the data, ensuring robust and reliable beam position forecasts.
   The student intern working on this project will gain practical experience in cutting-edge
   machine learning topics as applied to a real high-energy physics application.'
+desired: Some experience in Python or Julia preferred, but not required.
+email: nisenberg@bnl.gov
 ---
 
 ## Additional Information

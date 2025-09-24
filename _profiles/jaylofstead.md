@@ -3,11 +3,13 @@ layout: profile
 name: Jay Lofstead
 organization: Sandia National Laboratories
 title: Accelerating Scientific Insights Through Advanced Data Exploration
+field: computer science, computational science
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Computer Science (i.e., architectures,
   compilers/languages, networks, workflow/edge, experiment automation, containers,
   neuromorphic computing, programming models, operating systems, sustainable software);
   High-Performance Computing
+status: Accept
 abstract: Large scale science simulations and observations both generate enormous
   data volumes that must be analyzed to generate scientific insights. Sometimes, this
   analysis are simple min/max to support visualization. Other times, they are complex
@@ -18,6 +20,8 @@ abstract: Large scale science simulations and observations both generate enormou
   the query operations. No prior knowledge of the mathematical operations nor special
   machine learning or database skills required. Some exposure to ease on the job learning
   is desired.
+desired: basic database, basic machine learning
+email: jay@lofstead.org
 ---
 
 ## Additional Information

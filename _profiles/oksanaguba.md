@@ -3,8 +3,10 @@ layout: profile
 name: Oksana Guba
 organization: Sandia National Laboratories
 title: Improving vertical discretizations in atmospheric modeling
+field: Numerical methods, atmospheric modeling
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); High-Performance Computing
+status: Accept
 abstract: Due to the specifics of the flow in atmospheric global circulation models,
   horizontal and vertical dimensions are discretised very differently. The atmospheric
   dynamical core in the climate model that we use is formulated for hybrid pressure-based
@@ -15,6 +17,9 @@ abstract: Due to the specifics of the flow in atmospheric global circulation mod
   vertical levels while increasing the model's fidelity and usability for applications.
   The project can be focused on a few relevant aspects, including developing numerical
   methods, evaluation of the model for climate applications, or uncertainty quantification.
+desired: The project would be tailored to the participant's interests and background,
+  assuming it is relatively connected to the atmospheric modeling.
+email: onguba@sandia.gov
 ---
 
 ## Additional Information

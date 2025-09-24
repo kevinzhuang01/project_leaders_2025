@@ -3,9 +3,11 @@ layout: profile
 name: Terry Jones
 organization: Oak Ridge National Laboratory
 title: Memory Tools for High Performance Computing
+field: Computer Science
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); High-Performance Computing
+status: Accept
 abstract: The recent emergence of new memory technologies and multi-tier memory architectures
   has disrupted the traditional view of memory as a single block of volatile storage
   with uniform performance. Several options for managing data on heterogeneous memory
@@ -17,6 +19,9 @@ abstract: The recent emergence of new memory technologies and multi-tier memory 
   framework, together with new tools, combines a generic runtime API with automated
   program profiling and analysis to achieve data management that is both efficient
   and portable across multiple memory architectures.
+desired: â€¢ basic computer science skills â€¢ C programming language â€¢ willingness
+  to learn
+email: trj@ornl.gov
 ---
 
 ## Additional Information

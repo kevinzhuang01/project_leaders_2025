@@ -3,10 +3,12 @@ layout: profile
 name: Cody O'Donnell
 organization: Lawrence Berkeley National Laboratory
 title: User Experience for Scientific Software Applications
+field: UX/UI Design and Development
 topics: Computer Science (i.e., architectures, compilers/languages, networks, workflow/edge,
   experiment automation, containers, neuromorphic computing, programming models, operating
   systems, sustainable software); Data Science (i.e., data analytics, data management
   &amp; storage systems, visualization)
+status: Accept
 abstract: User experience design is frequently an afterthought for scientific software
   applications. Nonetheless, the actual experience a person has while using a piece
   of software can often make or break its success. Our team is working to make sure
@@ -21,6 +23,10 @@ abstract: User experience design is frequently an afterthought for scientific so
   of scientific areas because these tools are meant to span the whole scientific domain.
   For example, we are or will be collaborating with teams in environmental science,
   water optimization, materials science, genomics, computer science, and physics.
+desired: 'Interested in: Web development, user interface design, JavaScript, React,
+  software development, user experience research, data visualization, information
+  architecture'
+email: ctodonnell@lbl.gov
 ---
 
 ## Additional Information

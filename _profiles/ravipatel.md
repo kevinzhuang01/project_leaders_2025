@@ -3,10 +3,12 @@ layout: profile
 name: Ravi Patel
 organization: Sandia National Laboratories
 title: Uncertainty quantification for operator learning under physics informed constraints
+field: Scientifc Machine Learning
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); Machine Learning
   and AI
+status: Accept
 abstract: One promising strategy in scientific machine learning seeks to obtain a
   PDE description of a physical system by inferring the PDEâ€™s operators directly
   from observations of the system. Ideally, a modeler would also enforce a priori
@@ -21,6 +23,9 @@ abstract: One promising strategy in scientific machine learning seeks to obtain 
   crack propagation of a composite under shear loading and climate forcing under volcanic
   eruption. This topic will blend together ideas from a variety of subjects, e.g.,
   PDEs, statistics, machine learning, solid mechanics, and climatology.
+desired: "(Not necessarily required) familiarity with coding, machine learning, Bayesian
+  inference, PDEs, and HPC"
+email: rgpatel@sandia.gov
 ---
 
 ## Additional Information

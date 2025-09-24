@@ -3,10 +3,12 @@ layout: profile
 name: Nathan Urban
 organization: Brookhaven National Laboratory
 title: Neural partial differential equations
+field: Applied mathematics
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); High-Performance
   Computing; Machine Learning and AI
+status: Accept
 abstract: Numerical computer simulation models are used to predict the behavior of
   physical systems such as fluids or materials. These simulations are based on underlying
   partial differential equations (PDEs). Neural partial differential equations (NPDEs)
@@ -25,6 +27,9 @@ abstract: Numerical computer simulation models are used to predict the behavior 
   well as Bayesian statistical and mathematical dimension reduction methods to efficiently
   quantify uncertainties of the NPDE in a reduced-dimensional space of neural network
   parameters.
+desired: Scientific programming Mathematics (ideally at the level of differential
+  equations, linear algebra, or multivariate calculus)
+email: nurban@bnl.gov
 ---
 
 ## Additional Information

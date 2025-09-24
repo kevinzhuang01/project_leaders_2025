@@ -3,8 +3,10 @@ layout: profile
 name: Erik Palmer
 organization: Lawrence Berkeley National Laboratory
 title: Supercomputer User Ticket Modeling and Analysis for Improving Scientific Output
+field: Data Science/Applied Math/HPC
 topics: Data Science (i.e., data analytics, data management &amp; storage systems,
   visualization); High-Performance Computing; Machine Learning and AI
+status: Accept
 abstract: At the National Energy Research Scientific Computing Center (NERSC), we
   cater to a user base exceeding 9,000 individuals, facilitating groundbreaking scientific
   endeavors on the 8th fastest supercomputer globally. As part of our support team,
@@ -22,6 +24,15 @@ abstract: At the National Energy Research Scientific Computing Center (NERSC), w
   as these models can also be effective tools for aiding understanding. A successful
   project will produce data artifacts that help identify user trends or behaviors
   to guide decisions about user services.
+desired: We would like students who value listening skills, exhibit perseverance by
+  working alone or reaching out for help from others. Students who regularly and proactively
+  check-in for assistance and progress updates are also highly desired. Knowledge
+  of coding, statistics, machine learning, and language processing are useful, but
+  not required as mentees will be given time, resources and our guidance to learn.
+  The project mentors would like to use Python as the primary language, so familiarity
+  with Python is ideal. We believe there is a lot of room to move in different directions
+  with this project depending on your own interests.
+email: epalmer@lbl.gov
 ---
 
 ## Additional Information

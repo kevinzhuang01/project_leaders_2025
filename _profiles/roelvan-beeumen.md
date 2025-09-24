@@ -3,7 +3,9 @@ layout: profile
 name: Roel Van Beeumen
 organization: Lawrence Berkeley National Laboratory
 title: Randomized solvers for tensor eigenvalue problems
+field: Numerical Linear Algebra
 topics: High-Performance Computing Quantum Computing and Information Science
+status: Accept
 abstract: Eigenvalue computations are at the core of simulations in many applications,
   including quantum physics, material science, and electronic structure computations.
   On the other hand, randomized algorithms are currently gaining more attention because
@@ -20,6 +22,10 @@ abstract: Eigenvalue computations are at the core of simulations in many applica
   testing of quantum algorithms, and allows for fast algorithm development and discovery.
   Project ideas could include improving (CPU/GPU) performance, adding different noise
   models, and expanding the quantum algorithmsâ€™ base.
+desired: 'Specific background depends on the specific project focus, but generally:
+  applied mathematics, numerical algorithm design, software development (C++, Matlab),
+  etc.'
+email: rvanbeeumen@lbl.gov
 ---
 
 ## Additional Information

@@ -3,10 +3,12 @@ layout: profile
 name: Destinee Morrow
 organization: Lawrence Berkeley National Laboratory
 title: Using Machine Learning for Early Detection of Obstructive Sleep Apnea
+field: AI in Healthcare
 topics: Computational Science Applications (i.e., bioscience, cosmology, chemistry,
   environmental science, nanotechnology, climate, etc.); Data Science (i.e., data
   analytics, data management &amp; storage systems, visualization); High-Performance
   Computing; Machine Learning and AI
+status: Accept
 abstract: Obstructive sleep apnea (OSA) affects 24% of all Veterans or 1 in every
   15 Americans and is associated with increased risk for developing cardiovascular
   and metabolic comorbidities such as heart disease, stroke, hypertension, and type
@@ -17,6 +19,10 @@ abstract: Obstructive sleep apnea (OSA) affects 24% of all Veterans or 1 in ever
   learning and natural language processing, we can better understand and identify
   OSA and target patients for treatment closer to the onset, reducing the likelihood
   of patients developing comorbidities.
+desired: python, pytorch, mpi, dask, R, clinical data, big data, electronic health
+  records, high-performance computing, natural language processing, large language
+  models, machine learning, predictive modeling
+email: dmorrow@lbl.gov
 ---
 
 ## Additional Information
