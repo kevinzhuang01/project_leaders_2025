@@ -16,9 +16,6 @@ academic_interests: My research interests mainly include learning more about com
   and software engineering research, and all of the opportunities it can give me.
   My current research has focused on GNN's (graph neural networks) and helping to
   optimize them for our current problem with efficiency.
-motivation: My mentor recently put this on my radar, and it piqued my interest. Many
-  of the topics discussed are of interest to me and I am excited to potentially learn
-  more about them.
 email: czzoccole@student.ysu.edu
 citizenship_status: US Citizen
 academic_status: 4-Year Undergraduate Student
@@ -28,8 +25,4 @@ image: "/assets/images/profiles/Letter-Number-Files/carson_zoccole_1.jpg"
 ## Academic Interests
 
 My research interests mainly include learning more about computer and software engineering research, and all of the opportunities it can give me. My current research has focused on GNN's (graph neural networks) and helping to optimize them for our current problem with efficiency.
-
-## Motivation
-
-My mentor recently put this on my radar, and it piqued my interest. Many of the topics discussed are of interest to me and I am excited to potentially learn more about them.
 

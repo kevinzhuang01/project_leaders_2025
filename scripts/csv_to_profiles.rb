@@ -25,7 +25,9 @@ def csv_to_profiles
 
   # Read CSV and create profile pages
   CSV.foreach(csv_file, headers: true) do |row|
-    name = "#{row['First']}_#{row['Last']}"
+    first = row['First/Given Names (first)'] || row['First']
+    last = row['Last/Family Name (first)'] || row['Last']
+    name = "#{first}_#{last}"
     next if name.nil? || name.strip.empty?
     
     slug = slugify(name)
@@ -33,8 +35,8 @@ def csv_to_profiles
     
     # Check for profile image matching first_last pattern
     image_path = nil
-    first_name = row['First'].to_s.downcase.strip
-    last_name = row['Last'].to_s.downcase.strip
+    first_name = first.to_s.downcase.strip
+    last_name = last.to_s.downcase.strip
     
     # Look for any file that starts with first_last pattern
     image_dir = "assets/images/profiles/Letter-Number-Files"
@@ -60,19 +62,18 @@ def csv_to_profiles
     # Prepare front matter
     front_matter = {
       'layout' => 'profile',
-      'name' => "#{row['First']} #{row['Last']}",
-      'organization' => row['Institution'],
-      'department' => row['Department'],
+      'name' => "#{first} #{last}",
+      'organization' => row['Institution/Organization (first)'] || row['Institution'],
+      'department' => row['Department (first)'] || row['Department'],
       'project_title' => row['Title'],
-      'status' => row['Status ']&.strip, # Note: CSV has trailing space
-      'abstract' => row['Abstract ']&.strip, # Note: CSV has trailing space
-      'academic_interests' => row['Academic/Research Interests'],
-      'motivation' => row['Motivation'],
-      'email' => row['Email'],
+      'status' => (row['Status (This Stage)'] || row['Status '])&.strip,
+      'abstract' => (row['Abstract (short description)'] || row['Abstract '])&.strip,
+      'academic_interests' => row['Academic/Research Interests (Maximum 250 words)'] || row['Academic/Research Interests'],
+      'email' => row['Email (first)'] || row['Email'],
       'citizenship_status' => row['Citizenship Status'],
-      'academic_status' => row['Academic Status'],
+      'academic_status' => row['Academic Status [undergraduate and master\'s students: if you are graduating this semester, please provide your current status, i.e., your status before graduation.]'] || row['Academic Status'],
       'additional_comments' => row['Additional Comments'],
-      'website' => row['Website'],
+      'website' => row['Website (first)'] || row['Website'],
       'image' => image_path
     }
     
@@ -88,12 +89,6 @@ def csv_to_profiles
     if front_matter['academic_interests'] && !front_matter['academic_interests'].strip.empty?
       content += "## Academic Interests\n\n"
       content += "#{front_matter['academic_interests']}\n\n"
-    end
-    
-    # Add Motivation section if available
-    if front_matter['motivation'] && !front_matter['motivation'].strip.empty?
-      content += "## Motivation\n\n"
-      content += "#{front_matter['motivation']}\n\n"
     end
     
     # Write the file

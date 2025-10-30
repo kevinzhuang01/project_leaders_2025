@@ -12,7 +12,7 @@ abstract: The poster will present the Interactive Grit Tracker, a web-based tool
   real-time visualizations like bar charts to track progress. Drawing form an NSF
   S-STEM photovoice project, the tracker uses student narratives to foster academic
   confidence and belonging, addressing retention gaps in underserved communities.
-  The poster will showcase the toolâ€™s interface, a sample output, and its potential
+  The poster will showcase the tool’s interface, a sample output, and its potential
   to enhance mentoring practices.
 academic_interests: I am pursuing a BS, double majoring in Computer Science, and Mathematics
   with a concentration in Data Science. I intend to continue my studies after receiving
@@ -23,8 +23,6 @@ academic_interests: I am pursuing a BS, double majoring in Computer Science, and
   projects on artificial intelligence, data science, and computational chemistry.
   Previous workshops held by SHI were very inspirational, and motivated me to work
   towards these goals.
-motivation: I'm eager to attend this conference to connect with peers and grow my
-  skillset.
 email: escude.ashley@gmail.com
 citizenship_status: US Citizen
 academic_status: 4-Year Undergraduate Student
@@ -43,8 +41,4 @@ image: "/assets/images/profiles/Letter-Number-Files/ashley_escude_5.jpg"
 ## Academic Interests
 
 I am pursuing a BS, double majoring in Computer Science, and Mathematics with a concentration in Data Science. I intend to continue my studies after receiving my undergraduate degree in Spring 2026. It is my longterm goal to work for a national laboratory, with a supercomputer, so that I can be a part of cutting edge, innovative research. Currently, I am participating in research on the photovoice/mentoring part of the NSF S-STEM scholar program at LSUA. I would love to participate in research projects on artificial intelligence, data science, and computational chemistry. Previous workshops held by SHI were very inspirational, and motivated me to work towards these goals.
-
-## Motivation
-
-I'm eager to attend this conference to connect with peers and grow my skillset.
 

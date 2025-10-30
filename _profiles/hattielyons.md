@@ -31,15 +31,6 @@ academic_interests: My academic interests revolve around the overlap of artifici
   detect and flag hallucinatory output in LLM systems. This project reflects my broader
   interest in building configurable, open-source research tools that improve the robustness
   and transparency of AI-driven workflows.
-motivation: I am interested in attending the US-RSE25 conference Building Engagement
-  program because it directly aligns with my academic trajectory and my deep-seated
-  interest in independent research and writing ethically-aligned, transparent code.
-  The program would give me an invaluable chance to develop my skills in collaborative
-  software development, research, and sustainability. It would provide me with opportunities
-  for mentorship, allowing me to grow academically and setting me up for future contributions
-  to open-source, community-driven research software. I also really value how the
-  Building Engagement program emphasizes connection, inclusion, and community building,
-  not just technical skills.
 email: hlyons2@luc.edu
 citizenship_status: US Citizen
 academic_status: Master's Student
@@ -50,8 +41,4 @@ image: "/assets/images/profiles/Letter-Number-Files/hattie_lyons_1.jpg"
 ## Academic Interests
 
 My academic interests revolve around the overlap of artificial intelligence, systems design, and linguistics/semantics. I am especially fascinated by latent space dynamics, algorithmic bias, and AI hallucination. My ongoing research focuses on the reliability and interpretability of artificial intelligence systems, particularly large language models (LLMs). I am actively building a modular supervision software for language models that uses semantic embeddings and data structures to detect and flag hallucinatory output in LLM systems. This project reflects my broader interest in building configurable, open-source research tools that improve the robustness and transparency of AI-driven workflows.
-
-## Motivation
-
-I am interested in attending the US-RSE25 conference Building Engagement program because it directly aligns with my academic trajectory and my deep-seated interest in independent research and writing ethically-aligned, transparent code. The program would give me an invaluable chance to develop my skills in collaborative software development, research, and sustainability. It would provide me with opportunities for mentorship, allowing me to grow academically and setting me up for future contributions to open-source, community-driven research software. I also really value how the Building Engagement program emphasizes connection, inclusion, and community building, not just technical skills.
 

@@ -44,13 +44,6 @@ academic_interests: My academic and research interests are in distributed comput
   the trade-offs between these architectural designs. I aim to contribute to research
   that improves modern cloud computing environments and builds robust systems that
   are highly scalable and can manage the complexity of modern data and user demands.
-motivation: I am very interested in joining the Building Engagement program because
-  the program aims to help students navigate academic and career paths, and I believe
-  I would benefit immensely from it. I intend to learn from experienced leaders in
-  the US-RSE community on how to build a welcoming and more innovative professional
-  society. I expect that by participating, I will be able to enhance both my professional
-  standing and also contribute to the growth and visibility of the Research Software
-  Engineering field.
 email: emmakeo91@gmail.com
 citizenship_status: F-1 Visa
 academic_status: 4-Year Undergraduate Student
@@ -60,8 +53,4 @@ image: "/assets/images/profiles/Letter-Number-Files/onyedikachi_kanu_2.jpg"
 ## Academic Interests
 
 My academic and research interests are in distributed computing and the principles of building scalable software systems. My motivation for research lies in the difficulty of designing and developing systems that can manage large volumes of data and user traffic efficiently without overwhelming the system or affecting performance. Specifically, I am interested in investigating how to maintain consistency and manage concurrency control when data is replicated across multiple nodes in a distributed system, as well as the adoption of microservices architecture to make a system more scalable. I worked on a research project that compared monolithic and microservices architectures. I analyzed performance metrics such as latency and throughput under different load levels using Apache JMeter in order to determine the trade-offs between these architectural designs. I aim to contribute to research that improves modern cloud computing environments and builds robust systems that are highly scalable and can manage the complexity of modern data and user demands.
-
-## Motivation
-
-I am very interested in joining the Building Engagement program because the program aims to help students navigate academic and career paths, and I believe I would benefit immensely from it. I intend to learn from experienced leaders in the US-RSE community on how to build a welcoming and more innovative professional society. I expect that by participating, I will be able to enhance both my professional standing and also contribute to the growth and visibility of the Research Software Engineering field.
 

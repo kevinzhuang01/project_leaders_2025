@@ -27,24 +27,14 @@ abstract: 'Psychological safety is the belief that a context is safe for interpe
   attributes; 2) design principles for fostering psychological safety in collaborative
   software development teams; 3) a software development tool that scaffolds psychologically
   safe mobbing in neurodiverse software teams.'
-academic_interests: Hi, Iâ€™m Ren. Have you ever felt good about sharing an idea with
-  a group? Thatâ€™s psychological safety. Iâ€™m a PhD Student researching psychological
+academic_interests: Hi, I’m Ren. Have you ever felt good about sharing an idea with
+  a group? That’s psychological safety. I’m a PhD Student researching psychological
   safety in neurodiverse tech teams. Tech work is more than programming. Tech reflecting
-  and collaborating, which involves interpersonal risk â€“ especially when the way
-  you think and behave diverges from socially constructed norms. I design practices
-  and AI agents that help team members value each otherâ€™s ideas, questions, concerns,
+  and collaborating, which involves interpersonal risk – especially when the way you
+  think and behave diverges from socially constructed norms. I design practices and
+  AI agents that help team members value each other’s ideas, questions, concerns,
   and mistakes. I hope to empower teams to create technology that respects neurodivergence
   and intersecting identities.
-motivation: I value community. I would benefit immensely from building connections
-  and knowledge with other students, researchers, and practitioners who value the
-  experiences of software engineers and end users, and wish to cultivate more usable
-  software. In the short term, I intend to conduct studies where I design social technologies
-  with neurodiverse engineers and technologies in universities and industry teams.
-  Long term, I hope to continue in a role where I research or manage software engineering
-  teams to develop practices and software that enhance team safety and software quality.
-  I am excited to discuss what I've learned, my plans, and the questions I have from
-  sessions with my affinity group. I am also going on the market for internships for
-  next summer, and the conference would be an excellent networking opportunity.
 email: ddbutler@andrew.cmu.edu
 citizenship_status: F-1 Visa
 academic_status: Doctoral Student
@@ -54,9 +44,5 @@ image: "/assets/images/profiles/Letter-Number-Files/darren_butler_1.jpg"
 
 ## Academic Interests
 
-Hi, Iâ€™m Ren. Have you ever felt good about sharing an idea with a group? Thatâ€™s psychological safety. Iâ€™m a PhD Student researching psychological safety in neurodiverse tech teams. Tech work is more than programming. Tech reflecting and collaborating, which involves interpersonal risk â€“ especially when the way you think and behave diverges from socially constructed norms. I design practices and AI agents that help team members value each otherâ€™s ideas, questions, concerns, and mistakes. I hope to empower teams to create technology that respects neurodivergence and intersecting identities.
-
-## Motivation
-
-I value community. I would benefit immensely from building connections and knowledge with other students, researchers, and practitioners who value the experiences of software engineers and end users, and wish to cultivate more usable software. In the short term, I intend to conduct studies where I design social technologies with neurodiverse engineers and technologies in universities and industry teams. Long term, I hope to continue in a role where I research or manage software engineering teams to develop practices and software that enhance team safety and software quality. I am excited to discuss what I've learned, my plans, and the questions I have from sessions with my affinity group. I am also going on the market for internships for next summer, and the conference would be an excellent networking opportunity.
+Hi, I’m Ren. Have you ever felt good about sharing an idea with a group? That’s psychological safety. I’m a PhD Student researching psychological safety in neurodiverse tech teams. Tech work is more than programming. Tech reflecting and collaborating, which involves interpersonal risk – especially when the way you think and behave diverges from socially constructed norms. I design practices and AI agents that help team members value each other’s ideas, questions, concerns, and mistakes. I hope to empower teams to create technology that respects neurodivergence and intersecting identities.
 

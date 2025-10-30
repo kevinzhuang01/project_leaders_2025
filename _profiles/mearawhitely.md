@@ -16,12 +16,6 @@ academic_interests: My current research interests involve GNNs, particularly how
   lower the memory usage and time allocation for their inference. I've been participating
   in this research for a couple of months now and the possibilities that I have yet
   to research are very exciting.
-motivation: I am interested in attending this program because it seems like an amazing
-  opportunity to share what I have been working on as well as support others and learn
-  about some of the great research that is happening. While I was doing my internship
-  at Berkeley National Lab, I was able to participate in their poster session which
-  was a great experience. I look forward to possibly being able to have an experience
-  like that again.
 email: miwhitely@student.ysu.edu
 citizenship_status: US Citizen
 academic_status: 4-Year Undergraduate Student
@@ -31,8 +25,4 @@ image: "/assets/images/profiles/Letter-Number-Files/meara_whitely_1.jpg"
 ## Academic Interests
 
 My current research interests involve GNNs, particularly how to lower the memory usage and time allocation for their inference. I've been participating in this research for a couple of months now and the possibilities that I have yet to research are very exciting.
-
-## Motivation
-
-I am interested in attending this program because it seems like an amazing opportunity to share what I have been working on as well as support others and learn about some of the great research that is happening. While I was doing my internship at Berkeley National Lab, I was able to participate in their poster session which was a great experience. I look forward to possibly being able to have an experience like that again.
 
