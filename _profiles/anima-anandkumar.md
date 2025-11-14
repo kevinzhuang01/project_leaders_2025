@@ -49,16 +49,16 @@ abstract: Addressing global sustainability challenges requires fast, accurate, a
   scientists, engineers, and students worldwide to harness advanced neural operators
   for transformative discovery, informed decision-making, and sustainable, verifiable
   solutions to urgent global challenges.
-desired_skills: "- Knowledge of machine learning fundamentals - Strong programming
-  skills and experience with scientific computing and deep learning libraries (e.g.,
-  Python, PyTorch) - Familiarity with differential equations and numerical methods
-  - Interest in computational modeling and applying AI to scientific problems - Enthusiastic
-  and proactive in exploring new research questions, methods, and learning opportunities
-  - Open-minded and adaptable, eager to engage with diverse scientific approaches
-  and perspectives - Passion for interdisciplinary research bridging AI and physical
-  sciences - Effective communication skills - (Optional) Familiarity with theorem
-  provers such as Lean or an interest in learning them can be helpful for certain
-  specific directions, though not required for most directions"
+desired_skills: "<ul><li>Knowledge of machine learning fundamentals</li><li>Strong
+  programming skills and experience with scientific computing and deep learning libraries
+  (e.g., Python, PyTorch)</li><li>Familiarity with differential equations and numerical
+  methods</li><li>Interest in computational modeling and applying AI to scientific
+  problems</li><li>Enthusiastic and proactive in exploring new research questions,
+  methods, and learning opportunities</li><li>Open-minded and adaptable, eager to
+  engage with diverse scientific approaches and perspectives</li><li>Passion for interdisciplinary
+  research bridging AI and physical sciences</li><li>Effective communication skills</li><li>(Optional)
+  Familiarity with theorem provers such as Lean or an interest in learning them can
+  be helpful for certain specific directions, though not required for most directions</li></ul>"
 lightning_talk_title: Neural Operators for Scalable and Sustainable Scientific Modeling
 keywords: AI for science; neural operators; physics-informed ML; accelerating simulations
   and scientific discovery; inverse design;

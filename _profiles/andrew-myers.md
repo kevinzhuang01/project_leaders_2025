@@ -1,8 +1,8 @@
 ---
 layout: profile
-name: Andrew `Myers
+name: Andrew Myers
 first_name: Andrew
-last_name: "`Myers"
+last_name: Myers
 email: atmyers@lbl.gov
 institution: LBNL
 department: Applied Mathematics
