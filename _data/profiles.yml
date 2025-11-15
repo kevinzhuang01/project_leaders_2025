@@ -333,42 +333,6 @@
     science and engineering. Dr. Liu has published more than 50 papers in refereed
     journals and conference proceedings. He is a recipient of US. Department of Energy
     Nuclear Energy Office's Distinguished Early Career Award in 2024.
-- Submission: proj115s1
-  Status (This Stage): Accept Wave 2 (Unconfirmed)
-  First/Given Names (first): Dongyeop
-  Last/Family Name (first): Kang
-  Email (first): dongyeop@umn.edu
-  Company/Institution (first): University of Minnesota
-  Department (first): Computer Science & Engineering
-  Photograph (first): 'jpg Information Type: jpgSize: 59KBUploaded: Sep 22MD5: fca0d074642e2d9c3dd2e6caa0b9f275Original
-    Name: dykang2.jpg view move to AWS'
-  Website (first): https://dykang.github.io/
-  SRP Project Title (first): Building Trustworthy Scientific Foundational Model
-  What is the NAIRR Project Name? (first): Scientific Foundational Model Development
-    for Supporting Trustworthy Scholarly Writing
-  'Please select all the topical areas that apply to your project: (first)': Artificial
-    Intelligence and Intelligent Systems
-  Brief Abstract (200 words) (first): 'Scholarly writing is a complex cognitive task
-    requiring continuous decision-making, extensive working memory, and multitasking.
-    Developing effective scholarly writing assistants is challenging due to the issue
-    of non-factual responses from large language models (LLMs) and isolated assistance
-    at different stages of writing. Our project aims to develop scientific foundational
-    models that provide reliable, multimodal support for the entire writing process,
-    including text, images, code, social media discussions, and peer reviews. We will
-    enhance trust by marking original reference sources in generated content and linking
-    references across modalities. Upon completion, we will release two open-source
-    models: a pretrained LLM identifying reference sources in outputs, and a fine-tuned
-    VLM for vision-language tasks. All data, model weights, and training details will
-    be openly shared to promote scientific transparency. These models are expected
-    to enhance scientific discovery and contribute to the development of reliable,
-    safe AI across various fields.'
-  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Ideal
-    participants should have skills in machine learning and NLP, including experience
-    with large language models (LLMs), and Python-based development. They should understand
-    scholarly writing processes, reference management, and data curation for text,
-    images, and code. Strong interests in open science, and creating trustworthy systems
-    are essential. Collaborative abilities, clear communication, and a willingness
-    to learn and mentor are also important.
 - Submission: proj117s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Anima
@@ -470,31 +434,6 @@
     works on container runtimes and workflows as a part of the Charliecloud project.
     She also provides user support for HPC systems. In her free time, she enjoys reading,
     hiking, and playing with her pit bull.
-- Submission: proj120s1
-  Status (This Stage): Accept Wave 2 (Unconfirmed)
-  First/Given Names (first): Dalton
-  Last/Family Name (first): Lunga
-  Email (first): lungadd@ornl.gov
-  Company/Institution (first): Oak Ridge National Laboratory
-  Department (first): Geospatial Science and Human Security
-  SRP Project Title (first): Geospatial AI Foundation Models
-  What is the NAIRR Project Name? (first): Georeferenced Multimodal Foundation Models
-    for Earth Sciences
-  'Please select all the topical areas that apply to your project: (first)': Artificial
-    Intelligence and Intelligent Systems; Computer Science; High Performance Computing;
-    Other Earth and Environmental Sciences; Performance Evaluation and Benchmarking
-  Brief Abstract (200 words) (first): This project seeks to prototype a proof-of-concept
-    next generation geospatial foundation model that integrate geospatial knowledge,
-    physical processes, temporal dynamics, and human actions to support pressing energy,
-    security, and environmental challenges. We will take inspiration from the NVIDIA
-    Cosmos – a platform for training general purpose world foundation models for physical
-    AI and seek to prototype world models to support GeoAI foundation models that
-    are equipped with capturing dynamic states of the physical world.
-  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Artificial
-    Intelligence, Generative AI (Diffusion Models), Image and Video Processing, Remote
-    Sensing, High Performance Computing, Image and Video Synthesis, Self Supervised
-    Learning, Graph Neural Networks
-  Any other comments (first): none
 - Submission: proj123s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Edgar
@@ -708,36 +647,6 @@
     was a member of the 2022 Gordon-Bell prize-winning team for kinetic plasma simulations
     with the WarpX Particle-in-Cell code, and received a Director's Award for Exceptional
     Scientific Achievement in 2023.
-- Submission: proj133s1
-  Status (This Stage): Accept Wave 2 (Unconfirmed)
-  First/Given Names (first): zhou
-  Last/Family Name (first): yu
-  Email (first): zy2461@columbia.edu
-  Company/Institution (first): Columbia University
-  Photograph (first): 'png Information Type: pngSize: 210KBUploaded: Oct 07MD5: 572820134149095d5f9e324d01bf9c2cOriginal
-    Name: 007.png view move to AWS'
-  SRP Project Title (first): 'Enhancing Privacy-Preserving LLM Pipelines: Expanding
-    Benchmarks, Improving Local Model Performance, and Exploring Complex System Structures'
-  What is the NAIRR Project Name? (first): 'Enhancing Privacy-Preserving LLM Pipelines:
-    Expanding Benchmarks, Improving Local Model Performance, and Exploring Complex
-    System Structures'
-  'Please select all the topical areas that apply to your project: (first)': Artificial
-    Intelligence and Intelligent Systems; Computer Science
-  Brief Abstract (200 words) (first): This project investigates privacy-preserving
-    methods for Large Language Model (LLM) applications, focusing on preventing the
-    disclosure of Personally Identifiable Information (PII) to untrusted LLMs at inference
-    time. Building upon the previously developed PAPILLON pipeline, which leverages
-    trusted but weaker local models to selectively utilize untrusted but powerful
-    API-based models, this research aims to enhance the pipeline's capabilities and
-    address limitations. The project will involve expanding the existing PUPA benchmark
-    dataset with synthetic data and additional real-world conversations, improving
-    the performance of smaller local LLMs through techniques like Supervised Fine-Tuning
-    (SFT) and Direct Preference Optimization (DPO), and exploring more complex system
-    structures for handling intricate user requests. Additionally, a user study will
-    be conducted to investigate the discrepancies between human and LLM understandings
-    of PII, contributing to better alignment between user expectations and model behavior
-  Desired relevant skills, background, or interests (don't be too prescriptive) (first): NLP
-    and ML experience. Python coding experience
 - Submission: proj134s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Varun
@@ -1177,53 +1086,6 @@
     In 2019, Wang was recognized as the Next Generation in Biomedicine by the Broad
     Institute of MIT and Harvard because of his contributions in dealing with confounding
     factors with deep learning.
-- Submission: proj148s1
-  Status (This Stage): Accept Wave 2 (Unconfirmed)
-  First/Given Names (first): Yizhou
-  Last/Family Name (first): Sun
-  Email (first): yzsun@cs.ucla.edu
-  Company/Institution (first): UCLA
-  Department (first): CS
-  Website (first): https://web.cs.ucla.edu/~yzsun/
-  SRP Project Title (first): Navigating Chemical Reaction Space via Deep Learning
-  What is the NAIRR Project Name? (first): NAIRR Pilot Project — Navigating Chemical
-    Reaction Space via Deep Learning
-  'Please select all the topical areas that apply to your project: (first)': Applied
-    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
-    Systems; Biochemistry and Molecular Biology; Chemical Engineering; Materials Engineering
-  Brief Abstract (200 words) (first): Chemical reactions power everything from new
-    medicines to sustainable materials—but predicting how molecules transform under
-    different conditions is still hard. Our project builds AI models that “learn”
-    reaction behavior from data, aiming to (1) capture how 3D molecular structures
-    evolve from reactants through high-energy transition states to products, (2) predict
-    outcomes of individual reactions by combining 3D molecular information with experimental
-    steps, and (3) plan multi-step synthetic routes with interpretable reasoning.
-    Students and faculty will help develop and evaluate deep learning systems (e.g.,
-    graph neural networks, diffusion models, and language-model–based planners), curate
-    datasets, and test ideas on open benchmarks. This work blends modern AI with chemistry
-    and has direct impact on faster drug discovery, greener catalysis, and more efficient
-    materials design. The summer experience can be tailored to backgrounds ranging
-    from applied ML to computational chemistry, with mentored sub-projects that emphasize
-    scientific rigor, reproducibility, and open research practices.
-  Desired relevant skills, background, or interests (don't be too prescriptive) (first): "-Strong
-    programming in Python; experience with PyTorch/JAX or similar DL frameworks -Interest
-    or experience in at least one: deep learning for molecules (GNNs, diffusion, transformers),
-    NLP/RAG for scientific text, or computational chemistry (e.g., DFT, reaction mechanisms,
-    conformations) -Familiarity with scientific Python stack (NumPy, pandas), version
-    control (Git), and good experiment hygiene (reproducible runs, logging) -Nice-to-have:
-    RDKit/cheminformatics; 3D geometry; thermodynamics/kinetics basics; HPC or multi-GPU
-    training -We especially welcome advanced undergraduates and graduate students
-    who have prior research experience in deep learning or computational chemistry
-    and are excited about interdisciplinary collaboration"
-  Any other comments (first): "-Mentoring & pairing: We will pair each participant
-    with a UCLA CS PhD mentor; weekly 1:1s and group meetings ensure steady progress.
-    -Project tracks: (A) 3D reaction dynamics modeling, (B) reaction-outcome prediction
-    with multimodal inputs, (C) multi-step retrosynthesis with retrieval-augmented
-    reasoning. -Deliverables: Open-source code with reproducible scripts; a short
-    workshop paper or poster; optional preprint if results warrant. - Onsite details:
-    Summer 2026 at UCLA (Los Angeles, CA). Start/end dates flexible within SRP windows.
-    - Accessibility: Projects can be adjusted to fit primarily-ML or primarily-chemistry
-    backgrounds while keeping a strong collaboration core"
 - Submission: proj149s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Steven
@@ -1320,3 +1182,646 @@
     numerics, or new workflows to address timely challenges in fusion and particle
     accelerator science. Ideally, you already have experience with C++, Python and
     Git/GitHub and are eager to be embedded in an open, interdisciplinary team.
+- Submission: doeproj101s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Khaled
+  Last/Family Name (first): Ibrahim
+  Email (first): kzibrahim@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  Department (first): Computer Science
+  Website (first): https://profiles.lbl.gov/21065-khaled-ibrahim
+  SRP Project Title (first): Performant Scientific Workflows in HPC Environments
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Artificial Intelligence and Intelligent Systems; Computer Science;
+    High Performance Computing; Performance Evaluation and Benchmarking
+  Brief Abstract (200 words) (first): 'Modern scientific workflows are rapidly evolving,
+    integrating LLMs, AI, and simulation codes to control, predict, and model complex
+    discovery processes. Managing these intricate workflows effectively is crucial
+    for leveraging HPC resources, preventing underutilization, and accelerating scientific
+    progress. This project addresses these challenges through two main approaches:
+    1- Workload Instrumentation to Profile and Model Performance: By instrumenting
+    workflow components, we gather detailed performance metrics to identify bottlenecks,
+    understand resource consumption, and predict performance under various loads,
+    enabling proactive optimization. 2- Orchestration of Resource Scheduling to Improve
+    User Experience: Building on performance insights, we develop sophisticated scheduling
+    mechanisms to dynamically allocate HPC resources, minimizing wait times, maximizing
+    throughput, and enhancing user experience for scientists by accelerating experiment
+    execution and model iteration.'
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): 'Programming
+    Languages: C++, Python; Profiling infrastructures: Nvidia tools'
+  Lightning Talk Title (Maximum 10 words): Performant Scientific Workflows in HPC
+    Environments
+  Keywords (Maximum 20 words): High Performance Computing HPC/AI workflows
+  Biography (Maximum 200 words): Khaled Ibrahim is a member of the Parallel Performance
+    and AI Nexus (PPAN) group in the Computing Sciences Area. He is working on various
+    research projects on high performance computing focusing on runtime systems, programming
+    models, performance modeling and optimization, and computer architectures. Khaled
+    Ibrahim came to Berkeley Lab in 2009, after working in INRIA, France. He obtained
+    his PhD in computer engineering from North Carolina State University.
+- Submission: doeproj102s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Andy
+  Last/Family Name (first): Nonaka
+  Email (first): AJNonaka@lbl.gov
+  Company/Institution (first): LBNL
+  Department (first): Applied Mathematics
+  Website (first): https://ccse.lbl.gov/index.html
+  SRP Project Title (first): High-Performance Multiphysics and Multiscale Modeling
+    with AMReX
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Atmospheric Sciences; Computer Science;
+    Electrical, Electronic, and Information Engineering; Fluid and Plasma Physics;
+    High Performance Computing; Open Source Software; Performance Evaluation and Benchmarking;
+    Software Engineering
+  Brief Abstract (200 words) (first): The Center for Computational Sciences and Engineering
+    (CCSE) at LBNL is a high-performance modeling and simulation group interested
+    in applications described by complex partial differential equations including
+    fluids (industrial, biological, and micro/nanoscale), plasma physics, microelectronics,
+    and environmental flows. The underlying software framework we develop and use
+    is called AMReX, a GPU/exascale-enabled block-structured adaptive mesh refinement
+    software framework that also includes particle/mesh, embedded boundary, and linear
+    solver capabilities. We also develop data-driven / machine-learning enhancement,
+    and code coupling strategies to both accelerate and increase the fidelity of our
+    codes. We are looking for collaborators with common interests in the computer
+    science, applied mathematics, and/or application science aspects of research performed
+    within CCSE.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): C++,
+    python, numerical methods, partial differential equations, domain knowledge in
+    fluids, plasmas, microelectronics, and/or environmental flow.
+  Lightning Talk Title (Maximum 10 words): High-Performance Multiphysics and Multiscale
+    Modeling with AMReX
+  Keywords (Maximum 20 words): partial differential equations, structured mesh, particle/mesh,
+    data/ML-driven model acceleration, industrial fluids, biofluids, micro/nanoscale
+    fluids, plasmas, microelectronics, environmental flow.
+  Biography (Maximum 200 words): Andy Nonaka is a Staff Scientist and Group Lead of
+    the Center for Computational Sciences and Engineering at Lawrence Berkeley National
+    Laboratory. His research interests include high-performance implementations of
+    multiphysics and multiscale algorithms for partial differential equations, with
+    a recent emphasis on electrodynamical, fluid dynamical, and material science applications.
+    More generally, he is interested in adaptive structured mesh algorithms, particle
+    and particle/mesh methods, linear solvers, and machine learning techniques to
+    accelerate scientific discovery.
+- Submission: doeproj103s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): arianna
+  Last/Family Name (first): formenti
+  Email (first): ariannaformenti@lbl.gov
+  Company/Institution (first): LBNL
+  SRP Project Title (first): Physics simulations and code development for plasma and/or
+    accelerator physics
+  'Please select all the topical areas that apply to your project: (first)': Fluid
+    and Plasma Physics; High Performance Computing; Open Source Software; Particle
+    and High-Energy Physics
+  Brief Abstract (200 words) (first): 'This research project will be hosted by the
+    Accelerator Modeling Program group at Lawrence Berkeley National Laboratory. AMP
+    is a program within the Accelerator Technology and Applied Physics Division at
+    Berkeley Lab that focuses on HPC to model particle accelerators, laser-plasma
+    interactions, beam physics and plasma devices, and nuclear fusion. With this project,
+    you will have the opportunity to contribute to ongoing research and gain hands-on
+    experience in the field of computational physics within an open and team-science
+    driven environment. Specifically, you will contribute to the development of the
+    Beam, Plasma & Accelerator Simulation Toolkit by working in the WarpX team, an
+    open-source massively-parallel particle-in-cell code that was awarded the prestigious
+    2022 ACM Gordon Bell Prize. You will participate in the advancement of theoretical
+    and computational plasma and beam accelerator physics, through one or more of
+    the various activities that occur in the program, which offers a wide range of
+    possibilities such as: Investigating physics through simulation campaigns to support
+    theoretical and/or experimental studies with the codes developed in the program;
+    Improving our computational tools or methods for better performances on supercomputers,
+    or for simulating new physics; Exploring novel numerical schemes, algorithms,
+    and AI/ML approaches to improve simulations’ reliability.'
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): "*
+    Python and/or C++ development * improve GPU-accelerated HPC open source codes
+    * AI/ML * supercomputers such as Perlmutter (NERSC) * Python notebooks & presentations
+    for demonstration/training/debugging. A background/study in physics, computer
+    science or applied math is desired and the focus of the project will be adjusted
+    accordingly. To stand out from the crowd, you might already have experience with
+    Python and C++, know how to use GitHub, or have run simulations before."
+  Lightning Talk Title (Maximum 10 words): Meet out team at LBNL and the Exascale
+    code WarpX
+  Keywords (Maximum 20 words): particle; accelerator; hpc; plasma; physics; fusion;
+    particle-in-cell;
+  Biography (Maximum 200 words): Arianna Formenti is a post-doc in the Accelerator
+    Technology and Applied Physics Division at Lawrence Berkeley National Laboratory.
+    Her research interests include modeling of future particle colliders – such as
+    Higgs factories and 10 TeV-level wakefield colliders – and fusions plasmas with
+    advanced simulations. She is a maintainer of the code WarpX, which is part of
+    the BLAST simulation toolkit. She received a BSc and MSC in Mathematical Engineering
+    and a PhD in Energy and Nuclear Science and Technology from Politecnico di Milano,
+    Italy. Arianna is also committed to science education, workforce development,
+    and outreach.
+- Submission: doeproj104s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Tianyi
+  Last/Family Name (first): Shi
+  Email (first): tianyishi@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  SRP Project Title (first): Develop tensor algorithms in Python
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; High Performance Computing; Open Source
+    Software
+  Brief Abstract (200 words) (first): A wide range of applications involve multidimensional
+    data as observations or solutions, and these data sets are often referred to as
+    tensors. The storage cost of tensors grows exponentially with respect to the dimensionality,
+    also known as "the curse of dimensionality", so researchers develop various data-sparse
+    tensor formats for lower storage and faster computations. This project focuses
+    on a special tensor format called the tensor-train (TT) format. We have developed
+    some data-centric algorithms to factor a given tensor into TT representations.
+    Our proposed algorithms can also be parallelized, and we can use them in analyzing
+    large data sets, solving partial differential equations, and conducting statistical
+    learning. In order to compare with state-of-the-art data-centric TT decomposition
+    packages, we would like to implement our algorithms in Python, specifically with
+    PyTorch and MPI4Py, using highly optimized linear algebra kernels and distributed
+    memory parallelism. Then we can perform a thorough comparison between our proposed
+    algorithms and the existing ones.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): 'Interests
+    or background in numerical linear algebra and parallel computing. Desired skills:
+    know how to code in Python, preferably PyTorch.'
+  Lightning Talk Title (Maximum 10 words): Tensor Computations in Python
+  Keywords (Maximum 20 words): Numerical linear algebra; tensor computations; parallel
+    algorithms; Python.
+  Biography (Maximum 200 words): Tianyi Shi is a postdoctoral scholar at Lawrence
+    Berkeley National Laboratory in the Scalable Solvers Group within the Computing
+    Sciences Area. He received his Ph.D. in Applied Mathematics from Cornell University.
+    Tianyi’s research focuses on developing efficient and scalable algorithms for
+    sparse and data-sparse matrices and tensors, with applications in computational
+    chemistry and high-performance computing. His work involves designing shared-
+    and distributed-memory parallel CPU and GPU codes in C, C++, and CUDA, and conducting
+    large-scale experiments on supercomputers.
+- Submission: doeproj105s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Phillip
+  Last/Family Name (first): Thomas
+  Email (first): pthomas@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  Department (first): NERSC
+  SRP Project Title (first): Simulating Vibrational Spectra of Molecules
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; High Performance Computing; Materials Engineering;
+    Open Source Software; Software Engineering
+  Brief Abstract (200 words) (first): Our group is interested in simulating infrared
+    spectra of molecules from first principles calculations. We have a code, called
+    "MLCP", which solves the high-dimensional eigenvalue problem to generate the energy
+    levels. We are interested in building an automated simulation pipeline which integrates
+    MLCP with other tools to rapidly simulate vibrational spectra of new systems.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): High
+    Performance Computing Programming Chemistry and/or physics
+  Lightning Talk Title (Maximum 10 words): Simulating Vibrational Spectra of Molecules
+  Keywords (Maximum 20 words): Fortran; python; spectroscopy; chemistry; physics;
+    high performance computing; simulation; workflow; pipeline; automation
+  Biography (Maximum 200 words): Phillip is an Application Performance Engineer at
+    NERSC. His areas of expertise include Fortran, GPU programming, and algorithms
+    related to tackling the Curse of Dimensionality. His efforts at NERSC involve
+    improving the performance of material science applications. Before coming to NERSC,
+    Phillip developed compute kernels for Wave Computing in Santa Clara, California.
+    Prior to that Phillip worked as a post-doctoral researcher in quantum reaction
+    dynamics at Queen's University in Ontario, Canada and at Leiden University in
+    the Netherlands. He also has experience in experimental molecular spectroscopy
+    from a post-doctoral fellowship at The Ohio State University. Phillip's Ph.D.
+    thesis topic was spectroscopy and simulation of reactive organic molecules.
+- Submission: doeproj106s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Kevin A.
+  Last/Family Name (first): Brown
+  Email (first): kabrown@anl.gov
+  Company/Institution (first): Argonne National Laboratory (ANL)
+  Department (first): Mathematics and Computer Science Division
+  Website (first): https://www.anl.gov/profile/kevin-a-brown
+  SRP Project Title (first): Analyzing and Modeling Large Scale Infrastructure
+  'Please select all the topical areas that apply to your project: (first)': Artificial
+    Intelligence and Intelligent Systems; Computer Science; Electrical, Electronic,
+    and Information Engineering; High Performance Computing; Informatics, Analytics
+    and Information Science; Infrastructure and Instrumentation; Other Computer and
+    Information Sciences; Performance Evaluation and Benchmarking; Software Engineering;
+    Statistics and Probability
+  Brief Abstract (200 words) (first): 'Large-scale computing infrastructure—including
+    supercomputers and wide-area research networks—underpins breakthroughs in science
+    and engineering. Yet the scale and complexity of these systems make them difficult
+    to deploy, operate, and optimize. They produce massive volumes of telemetry and
+    logs that must be distilled into actionable insight, and faults can cascade across
+    subsystems, degrading reliability and productivity if not detected and mitigated
+    quickly. Our work brings together complementary capabilities to study, design,
+    and optimize these infrastructures: • System and workload modeling that combines
+    AI, parallel discrete-event simulation (PDES), and fast surrogate models • Scalable
+    log and telemetry analysis, including automated, AI-assisted pipelines • Anomaly
+    detection and failure prediction to improve resilience • Network performance benchmarking,
+    measurement, and analysis to guide planning and operations'
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): "-
+    Basic programming experience is an asset"
+  Lightning Talk Title (Maximum 10 words): Analyzing and Modeling Large-Scale Infrastructure
+  Keywords (Maximum 20 words): networking supercomputing HPC ESnet AI Artificial intelligence
+    Resilience Failure analysis Performance analysis
+  Biography (Maximum 200 words): Kevin A. Brown is the Assistant Computer Scientist
+    at Argonne National Laboratory where he investigates new designs for supercomputer
+    networks. He received his B.Sc. from the University of Technology, Jamaica (UTech)
+    and his M.Sc. and Ph.D. in Mathematical and Computing Science from the Tokyo Institute
+    of Technology. His prior work experience includes serving as a Unix Systems Administrator
+    at Digicel (Jamaica) Ltd. and as a postdoctoral appointee in the Argonne Leadership
+    Computing Facility focused on exascale interconnect performance evaluation.
+- Submission: doeproj107s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Sai Krishna Kanth
+  Last/Family Name (first): Hari
+  Email (first): hskkanth@lanl.gov
+  Company/Institution (first): Los Alamos National Laboratory
+  SRP Project Title (first): Scalable Algorithms for Critical Infrastructure Network
+    Planning
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
+    Systems; Chemical Engineering; Civil Engineering; Computer Science; Electrical,
+    Electronic, and Information Engineering; High Performance Computing; Hydrology
+    and Water Resources; Infrastructure and Instrumentation; Mechanical Engineering
+  Brief Abstract (200 words) (first): Critical infrastructure networks—such as power
+    grids, water distribution systems, and natural gas pipelines—form the backbone
+    of modern society. Planning their design, daily operation, and expansion requires
+    repeatedly solving large-scale, complex optimization problems. These problems
+    are computationally challenging due to nonlinear and nonconvex flow models, discrete
+    decision variables, and the vast scale of network systems. This project focuses
+    on developing scalable optimization algorithms for such critical infrastructure
+    systems. We leverage techniques such as linear relaxations, spatial and temporal
+    decomposition, and problem-structure exploitation to design methods capable of
+    handling realistic, high-fidelity flow models efficiently. The outcomes aim to
+    enable faster and more reliable decision-making in infrastructure planning and
+    operation—directly supporting the Department of Energy’s mission to enhance the
+    resilience, efficiency, and security of national energy and water networks.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Interest
+    in optimization algorithms, energy or network systems, or applied mathematics;
+    experience with Julia, Python, C++, or MATLAB.
+  Lightning Talk Title (Maximum 10 words): Scalable Algorithms for Critical Infrastructure
+    Network Planning
+  Keywords (Maximum 20 words): Optimization, critical infrastructure, energy systems,
+    network modeling, algorithms, decomposition, applied mathematics, computational
+    methods.
+  Biography (Maximum 200 words): Research scientist with interests in critical infrastructure
+    network planning, autonomous vehicle planning and applied optimization. Background
+    in civil and mechanical engineering.
+- Submission: doeproj108s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Kesheng (John)
+  Last/Family Name (first): Wu
+  Email (first): kwu@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory (LBNL)
+  Website (first): https://profiles.lbl.gov/20161-john-wu/
+  SRP Project Title (first): Advanced Modeling for Prediction and Anomaly Detection
+    in Network Operations
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Artificial Intelligence and Intelligent Systems; Infrastructure
+    and Instrumentation
+  Brief Abstract (200 words) (first): 'As we approach the summer of 2026, our goal
+    is to develop and deploy advanced modeling capabilities for predicting hardware
+    failures and detecting external configuration anomalies in our network infrastructure.
+    This project aims to leverage machine learning and data analytics to improve network
+    stability, reduce unplanned outages, and enhance overall network efficiency. We
+    will focus on two key areas: (1) Predicting Hardware Failures: By analyzing log
+    and telemetry data, we will develop models to predict hardware failures in networking
+    equipment, enabling proactive replacement and minimizing downtime. (2) Detecting
+    Network Configuration Anomalies: We will create a tool to analyze received network
+    configuration data, identify routing path changes, and notify engineers of anomalies,
+    ensuring swift response to potential disruptions. Through this project, we will
+    apply advanced modeling techniques to drive business outcomes, including: - Improved
+    network stability and reduced unplanned outages - Enhanced predictive capabilities
+    for hardware failures and configuration anomalies - Data-driven decision-making
+    for network operations and maintenance By investing in advanced modeling and analytics,
+    we will take a proactive approach to network operations, ensuring a more resilient
+    and efficient network infrastructure for the summer of 2026 and beyond.'
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Strong
+    analytics skills are must. Computer networking knowledge is desired.
+  Lightning Talk Title (Maximum 10 words): Advanced Modeling for Prediction and Anomaly
+    Detection in Network Operations
+  Keywords (Maximum 20 words): Predictive Modeling Anomaly Detection Network Stability
+    Machine Learning Data Analytics Network Operations
+  Biography (Maximum 200 words): Dr. Kesheng (John) Wu leads multiple R&D endeavors
+    focused on advanced technologies and testbeds at the Scientific Networking Division
+    of Lawrence Berkeley National Laboratory. These projects aim to expedite data
+    transfer among DOE user facilities, implement in-network storage and computational
+    resources for intricate scientific workflows, and explore algorithms, strategies,
+    and practices to enhance the efficiency of network operations. Additionally, Dr.
+    Wu's team is tasked with developing and managing networking testbeds, providing
+    the broader research community with platforms to explore future generations of
+    networking technologies and optimize their utilization. These testbeds encompass
+    conventional optical networking alongside cutting-edge quantum communication capabilities.
+- Submission: doeproj109s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Talita
+  Last/Family Name (first): Perciano
+  Email (first): tperciano@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  Department (first): Scientific Data Division
+  SRP Project Title (first): 'AQuA-DATA: Advanced Quantum Algorithms for Diverse Applications
+    and Theoretical Advancements in Science'
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Mathematics; Computer Science; Other Computer and Information Sciences
+  Brief Abstract (200 words) (first): This project aims to bridge the gap between
+    theoretical quantum advantages and practical scientific applications by developing
+    quantum algorithms and quantum machine learning methods, focusing on efficient
+    data encoding to achieve quantum utility across diverse scientific domains. Our
+    proposal centers on developing a sophisticated suite of quantum algorithms tailored
+    to harness classical data for advanced scientific applications. We emphasize efficient
+    quantum data encoding, coupled with error mitigation approaches, as a pivotal
+    strategy to bridge the gap between theoretical quantum capabilities and practical
+    use across diverse scientific domains. Targeting classical data, which parallels
+    the concept of classical channels in quantum physics, our approach involves specific
+    data reduction techniques and sparsity to refine and simplify the data to serve
+    as input to our quantum algorithms. This makes it more amenable to quantum processing,
+    particularly focusing on computationally intensive components of larger data analysis
+    pipelines. Our methods encompass both pure quantum and hybrid quantum-classical
+    algorithms.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Computer
+    Science, software development, quantum algorithms, quantum computing, applied
+    math
+  Lightning Talk Title (Maximum 10 words): Machine Learning and Quantum Algorithms
+    for Science
+  Keywords (Maximum 20 words): Machine learning; applied math; quantum algorithms;
+    probabilistic graphical models; high performance computing.
+  Biography (Maximum 200 words): Dr. Perciano is a Research Scientist in the AI &
+    Learning Systems group and the Computational Biosciences group, at Lawrence Berkeley
+    National Laboratory. She conducts research in the areas of quantum computing,
+    quantum algorithms, image analysis, machine learning, probabilistic graphical
+    models, and high-performance computing motivated by the incredible challenges
+    around scientific data generated by computational models, simulations, and experiments.
+    Her research focuses on mathematical foundations for new methods, on the implementation
+    of scalable methods, and on platform-portability. Her goal is to develop powerful,
+    mathematically-grounded, scalable algorithms that meet the requirements needed
+    to analyze current and future scientific datasets acquired in user data facilities.
+    She has built a diverse collaboration network throughout the years in fields such
+    as materials science, biosciences, chemistry, among others.
+- Submission: doeproj110s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Arjun
+  Last/Family Name (first): Sharma
+  Email (first): asharm1@sandia.gov
+  Company/Institution (first): Sandia National Labs
+  Department (first): Applied and Computational Mathematics
+  SRP Project Title (first): AI + Physics for Better Propellers/ turbines
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
+    Systems; Environmental Engineering; Fluid and Plasma Physics; High Performance
+    Computing; Mechanical Engineering; Open Source Software; Performance Evaluation
+    and Benchmarking; Software Engineering
+  Brief Abstract (200 words) (first): 'Propellers and turbines, spinning blades on
+    drones, aircraft, ships, and wind turbines, have been modeled since before powerful
+    computers. Engineers built quick “low-order” tools such as blade-element models
+    (slice each blade into small segments), actuator-line models (represent the blade
+    as a line of force), and vortex methods (capture swirling wakes). These tools
+    are fast and great for early design exploration but can miss important flow features.
+    By contrast, high-fidelity computational fluid dynamics (CFD) resolves those details
+    but is often too slow for everyday use. This project blends the best of both worlds.
+    We keep the fast physics model and train a neural network to learn the missing
+    piece, the difference between low-order predictions and high-fidelity results.
+    This “grey-box” approach respects physics while data improves it. We focus on
+    practical performance measures, how much push (thrust) and how hard to spin (torque),
+    rather than every pressure or velocity detail, keeping the method simple for early
+    design. Summer work may include building a benchmark dataset, designing and training
+    neural network, visualizing results, and packaging a reusable tool. Students can
+    focus on coding, physics, or visualization based on interest. The outcome: better
+    early designs for aircraft, ships, and clean-energy systems.'
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): "•
+    Curiosity about physics and data • Some programming (Python or MATLAB—or any language)
+    • Basic data handling/plotting (matplotlib, or similar) • Comfort with algebra/calculus;
+    willingness to learn new tools or mathematics • Willingness to learn, ask questions,
+    and work as a team Nice to have: basic ML; exposure to aerodynamics/CFD; familiarity
+    with HPC clusters; interest in aircraft, drones, or clean energy."
+  Lightning Talk Title (Maximum 10 words): 'Faster, Trustworthy Fluids: Al + physics
+    for Propellers, Wings, Aerosols.'
+  Keywords (Maximum 20 words): propellers, turbines, drones, aircraft, airfoils, aerosols,
+    droplets, ice, turbulence, aerodynamics, thrust, torque, machine-learning, neural-networks,
+    design optimization, climate, air-quality, SINDy
+  Biography (Maximum 200 words): Arjun Sharma is a Postdoctoral Appointee at Sandia
+    National Laboratories (Computer Science Research Institute). He works at the intersection
+    of fluid mechanics, computing, and machine learning, building fast, trustworthy
+    models for design and discovery. Recent projects include improving classic wing
+    aerodynamics with learned corrections, non local transport of nutrients in bacterial
+    suspension, air-sea flux exchange in the DOE’s climate model, and machine learning
+    physics parametrization for climate models. He codes in Python (JAX/PyTorch),
+    Matlab and Fortran, uses GPUs, and runs larger studies on HPC clusters, with an
+    emphasis on clear, reproducible workflows and understanding physical mechanisms.
+    Arjun earned a Ph.D. in Mechanical Engineering (Applied Mathematics minor) from
+    Cornell University. Before graduate school he worked in high-performance engineering
+    at Rolls-Royce (aeroacoustics) and in Formula One (aerodynamics). He has taught
+    and TA’d core courses in thermodynamics and fluid dynamics and enjoys mentoring
+    students at different levels. For SRP, Arjun offers flexible projects where students
+    can lean into coding, physics, or visualization and leave with a portfolio-ready
+    artifact (well-documented repo, figures, and a short write-up). His mentoring
+    style is supportive and structured, weekly one-on-ones, code reviews, and clear
+    milestones, with opportunities for co-authorship when results warrant
+- Submission: doeproj111s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Justin
+  Last/Family Name (first): Wozniak
+  Email (first): woz@anl.gov
+  Company/Institution (first): Argonne National Laboratory
+  Department (first): Data Science & Learning
+  Website (first): https://www.anl.gov/profile/justin-m-wozniak
+  SRP Project Title (first): Applying Performance Prediction to Live Filesystems
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
+    Systems; Open Source Software; Performance Evaluation and Benchmarking; Visualization
+    and Human-Computer Systems
+  Brief Abstract (200 words) (first): Large shared filesystems can be an unpredictable
+    environment for running large scientific workflows. Our team has developed a performance
+    collection and prediction software package. We would now like to improve the software,
+    make it more portable and easy to use, and run it on more real-world filesystems.
+    The team in this project will run the data collection and prediction tools on
+    live systems with real applications. The research aspect will be in how to interpret
+    and visualize the resulting data. Possible applications include light source experiments
+    from the Advanced Photon Source and data management workflows from epidemics modeling.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Linux
+    Shell scripting Machine learning
+  Lightning Talk Title (Maximum 10 words): Prediction and resilience for distributed
+    workflows
+  Keywords (Maximum 20 words): workflows;hpc;filesystems;prediction
+  Biography (Maximum 200 words): Wozniak designs and implements workflow systems for
+    scientific applications and deep learning workloads, combining techniques from
+    high-performance computing and distributed computing. He has extensive experience
+    integrating advanced computing techniques in collaboration with the health, experimental,
+    and simulation sciences.
+- Submission: doeproj112s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Bert
+  Last/Family Name (first): de Jong
+  Email (first): wadejong@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  SRP Project Title (first): AI agents for chemical and materials science
+  'Please select all the topical areas that apply to your project: (first)': Chemical
+    Engineering; Computer Science; Condensed Matter Physics
+  Brief Abstract (200 words) (first): Discovering new materials or chemical processes
+    is a complex and time-consuming endeavor, often requiring countless experiments,
+    intricate analysis, and sometimes even serendipitous discoveries. Inverse design
+    has the promise to rationally discover new materials and processes. Supported
+    by artificial intelligence, inverse design can dramatically accelerate this process
+    by analyzing vast datasets, predicting material properties, and guiding experimental
+    design—reducing both the time and uncertainty involved in scientific discovery.
+    Our team is working on developing agents, integrated with machine learning and
+    large language models, self-driving experiments and HPC simulations.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Physical
+    chemistry or materials knowledge would be helpful Good understanding of AI and
+    ML methods, some knowledge of agentic AI.
+  Lightning Talk Title (Maximum 10 words): AI agents for chemical and materials science
+  Keywords (Maximum 20 words): AI; ML; chemical processes; materials; discovery; inverse
+    design
+  Biography (Maximum 200 words): Bert de Jong is the Director of the Quantum Systems
+    Accelerator, which is part of the National Quantum Initiative. In addition, de
+    Jong is the Team Director of the Accelerated Research for Quantum Computing (ARQC)
+    Team MACH-Q, funded by DOE ASCR, focused on developing software stacks for near-term
+    quantum computing devices. In addition, de Jong has a program in AI and machine
+    learning to understand biomolecular processes, and discover new materials and
+    molecular crystals for gas adsorption. de Jong serves as the Department Head for
+    Computational Sciences, and leads the Applied Computing for Scientific Discovery
+    Group, which advances scientific computing by developing and enhancing applications
+    in key disciplines, as well as developing HPC, quantum and AI tools and libraries
+    for addressing general problems in computational science.
+- Submission: doeproj113s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Graham
+  Last/Family Name (first): Harper
+  Email (first): gbharpe@sandia.gov
+  Company/Institution (first): Sandia National Laboratories
+  SRP Project Title (first): Multilevel Machine Learning for Material Modeling
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; High Performance Computing; Materials Engineering
+  Brief Abstract (200 words) (first): Multilevel methods are a class of algorithms
+    which accelerate solutions of large problems by solving a sequence of smaller
+    problems. Recent developments have shown multilevel methods may be used to train
+    large neural networks by instead training a sequence of smaller networks. The
+    benefits of these approaches are derived from the comparatively lower costs of
+    training smaller networks. This is particularly effective for Kolmogorov-Arnold
+    Networks (KANs), which are a type of neural network which learn individual activation
+    functions. This also allows for development of mathematical theory related to
+    polynomial approximation of functions. These theories and algorithms may be used
+    to accelerate training of neural networks for a variety of different applications,
+    such as material modeling engineering applications.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Mathematics
+    theory Machine learning software and theory Computer science and programming Engineering
+    and materials
+  Lightning Talk Title (Maximum 10 words): Multilevel Training for Machine Learning
+  Keywords (Maximum 20 words): Mathematics; Multilevel Methods; Machine Learning;
+    Neural Networks; Kolmogorov-Arnold Networks; Computer Science; Material Modeling;
+    Engineering;
+  Biography (Maximum 200 words): Graham Harper is a staff member at Sandia National
+    Laboratories in the scientific machine learning department. He has expertise in
+    finite element methods, domain decomposition, linear solvers, multigrid, earth
+    system modeling, and machine learning. He has developed high-performance software
+    for several libraries, including Trilinos, deal.II, and Neko. In his free time,
+    Graham enjoys 3D printing, electronics repair, and gardening.
+- Submission: doeproj114s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Roel
+  Last/Family Name (first): Van Beeumen
+  Email (first): rvanbeeumen@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  Department (first): Applied Mathematics and Computational Research Division
+  Website (first): https://www.roelvanbeeumen.be
+  SRP Project Title (first): Simulation of quantum algorithms
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Mathematics; Computer Science; Condensed Matter Physics; High Performance Computing;
+    Open Source Software; Performance Evaluation and Benchmarking
+  Brief Abstract (200 words) (first): Current and near-term quantum computers, also
+    known as noisy intermediate-scale quantum (NISQ) computers, are characterized
+    by low qubit counts, short qubit decoherence times, and high gate error rates.
+    On the other hand, rapid progress in both quantum hardware and software results
+    in continuous simulation needs of novel/modified quantum algorithms. The QCLAB
+    and QCLAB++ simulation software packages, developed at LBNL, are respectively
+    an object-oriented MATLAB toolbox and a fully templated C++ package for constructing,
+    representing, and simulating quantum circuits. Designed with an emphasis on numerical
+    stability, efficiency, and performance, QCLAB provides a reliable platform for
+    prototyping and testing quantum algorithms. For advanced performance needs, QCLAB++
+    serves as a complementary C++ package optimized for GPU-accelerated quantum circuit
+    simulations. Together, QCLAB and QCLAB++ form a comprehensive toolkit, balancing
+    the simplicity of MATLAB scripting with the computational power of GPU acceleration.
+    Project ideas could include improving (CPU/GPU) performance, adding different
+    noise models, implementing qudits functionalities, and expanding the quantum algorithms'
+    base.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): 'Specific
+    background depends on the specific project focus, but generally: software development
+    (Matlab, C++), quantum computing, applied mathematics, etc.'
+  Lightning Talk Title (Maximum 10 words): Quantum Computing meets Numerical Linear
+    Algebra
+  Keywords (Maximum 20 words): Quantum Computing Quantum Algorithms NISQ Quantum Linear
+    Algebra Matlab C++ CPU/GPU Performance Optimization State Vector Simulation
+  Biography (Maximum 200 words): 'Roel Van Beeumen is a Staff Scientist in the Applied
+    Mathematics and Computational Research Division at Berkeley Lab. His research
+    interests range from numerical linear algebra and software for solving large-scale
+    and high dimensional eigenvalue problems to quantum computing and quantum algorithms.
+    He earned his PhD in Engineering Science: Computer Science (2015) at KU Leuven
+    in Belgium, from which he also holds Master degrees in Mathematical Engineering
+    (2010) and in Archaeology (2011).'
+- Submission: doeproj115s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Zhe
+  Last/Family Name (first): Bai
+  Email (first): zhebai@lbl.gov
+  Company/Institution (first): Lawrence Berkeley National Laboratory
+  Department (first): Applied Mathematics and Computational Research
+  Website (first): https://profiles.lbl.gov/39980-zhe-bai
+  SRP Project Title (first): Sequential modeling of multi-scale dynamical systems
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
+    Systems; High Performance Computing
+  Brief Abstract (200 words) (first): This project develops advanced sequential models
+    to analyze time-series data. The goal is to capture the complex, multi-scale,
+    path-dependent relationships using historic event data. The model is expected
+    to learn both short-term and long-term temporal patterns for an overall reliable
+    forecast.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Proficient
+    in coding; experienced in optimizing neural networks; interested in transformers
+    and/or high performance computing.
+  Lightning Talk Title (Maximum 10 words): Sequential modeling of multi-scale dynamical
+    systems
+  Keywords (Maximum 20 words): Advanced sequential modeling; hierarchical learning;
+    time series forecasting; dynamical systems.
+  Biography (Maximum 200 words): Zhe Bai is a computational science researcher in
+    the Applied Mathematics and Computational Research Division of the Computing Sciences
+    Area at Lawrence Berkeley National Laboratory. Her research interests lie in the
+    area of data-driven modeling and model order reduction, including dynamic mode
+    decomposition, scientific machine learning and sparse algorithms for large-scale
+    computation and simulation. Cultivated interdisciplinary research and collaborations
+    spanning the fields of computational science and engineering, her work focuses
+    on AI-based modeling that couples first-principles with data-driven approaches
+    to understand, estimate and control high-dimensional physical systems.
+- Submission: doeproj116s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Kathryn
+  Last/Family Name (first): Maupin
+  Email (first): kmaupin@sandia.gov
+  Company/Institution (first): Sandia National Laboratories
+  Department (first): Optimization and Uncertainty Quantification
+  SRP Project Title (first): Uncertainty Quantification of Displacement Damage Models
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Computer Science; Other Computer and Information
+    Sciences; Particle and High-Energy Physics; Statistics and Probability
+  Brief Abstract (200 words) (first): As the third pillar of science, computational
+    simulation has allowed scientists to explore, observe, and test physical regimes
+    previously thought to be unattainable. High-fidelity models are derived from physical
+    principles and calibrated to experimental data. However, missing or unknown physics
+    and measurement, experimental, and numerical errors give rise to uncertainties
+    in the model form and parameter values in even the most trustworthy models. Thus,
+    rigorous calibration and validation of a computational model is paramount to its
+    effective us as a predictive tool. The popularity of the Bayesian paradigm stems
+    from its natural integration of measurement and model uncertainties. A systematic
+    approach to model validation, progressing from parameter and quantity of interest
+    identification to sensitivity analysis, calibration, and validation, is applied
+    to a drift-diffusion simulation code called Charon. Charon allows the computational
+    qualification of semiconductor devices subjected to displacement damage. *Sandia
+    National Laboratories is a multimission laboratory managed and operated by National
+    Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of
+    Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear
+    Security Administration under contract DE-NA0003525.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Coding
+    (any language), Command Line Interface, Desire to learn
+  Lightning Talk Title (Maximum 10 words): Uncertainty Quantification of Displacement
+    Damage Models
+  Keywords (Maximum 20 words): Bayesian methods; model calibration; model validation;
+    uncertainty quantification; model discrepancy; model form error.
+  Biography (Maximum 200 words): Kathryn Maupin is a Principal Member of the Technical
+    Staff at Sandia National Laboratories. Motivated by a passion for transforming
+    uncertainty into actionable insights, Kathryn leverages her extensive expertise
+    in model validation, model form error quantification, and Bayesian analyses to
+    drive innovative solutions that enhance research outcomes. Kathryn earned her
+    PhD in Computational Science, Engineering, and Mathematics, along with her M.S.
+    in Computational and Applied Mathematics, both from The University of Texas at
+    Austin. Her fascination with mathematical modeling began at the University of
+    California, San Diego, where she completed her B.A. in Applied Mathematics. When
+    she is not immersed in data and algorithms, Kathryn enjoys the chaos of family
+    life with her three children and three dogs. Looking ahead, Kathryn aspires to
+    continue pushing the boundaries of computational science while encouraging others
+    to confront ubiquitous uncertainty in their work.

@@ -88,7 +88,7 @@ This site is configured for GitHub Pages deployment:
 1. Push changes to the main branch
 2. Enable GitHub Pages in repository settings
 3. Select source as "Deploy from a branch" and choose "main"
-4. The site will be available at https://yourusername.github.io/shi-collab/
+4. The site will be available at https://kevinzhuang01.github.io/project_leaders_2025/
 
 ## Customization
 
