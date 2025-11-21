@@ -1150,38 +1150,6 @@
     obtained compute credits through NAIRR Pilot Classroom, NAIRR Startup, Amazon
     Web Services, and Google Cloud Platform. I have published articles in high-impact
     AI venues, including NeurIPS, CVPR, ECCV, and ICCV.
-- Submission: proj150s1
-  Status (This Stage): Accept (Unconfirmed)
-  First/Given Names (first): Axel
-  Last/Family Name (first): Huebl
-  Email (first): axelhuebl@lbl.gov
-  Company/Institution (first): Lawrence Berkeley National Laboratory
-  Department (first): Accelerator Technology & Applied Physics
-  Photograph (first): 'jpg Information Type: jpgSize: 227KBUploaded: Oct 19MD5: cb9acf1f3bdb4b05b9c432931341da3cOriginal
-    Name: Axel_Huebl.jpg view move to AWS'
-  Website (first): https://github.com/ax3l/
-  SRP Project Title (first): Novel Exascale & AI Workflows with WarpX
-  What is the HPSF Project Name? (first): WarpX
-  'Please select all the topical areas that apply to your project: (first)': Applied
-    Computer Science; Applied Mathematics; Fluid and Plasma Physics; High Performance
-    Computing; Open Source Software; Particle and High-Energy Physics; Performance
-    Evaluation and Benchmarking; Software Engineering
-  Brief Abstract (200 words) (first): 'We are envisioning several projects that involve
-    improving and expanding the performance or scientific workflows using WarpX, including:
-    1. Parallel data post-processing with DASK and openPMD. 2. Automatic differentiation
-    of C++ simulations through tools like Enzyme. 3. Implementation of numerical algorithms
-    for the modeling of plasmas, lasers, and particle beams, with applications in
-    fusion and/or accelerator physics. 4. Training fast AI/ML surrogate models. Incorporate
-    those into simulations, integrated research infrastructures, updating models in
-    real-time from experimental and simulation data as they become available, and/or
-    informing operation in experiments. The above implementations and workflows will
-    be demonstrated on and evaluated with WarpX simulations in fusion and particle
-    accelerator physics.'
-  Desired relevant skills, background, or interests (don't be too prescriptive) (first): We
-    are looking for people interested in developing new code (C++, Python), implement
-    numerics, or new workflows to address timely challenges in fusion and particle
-    accelerator science. Ideally, you already have experience with C++, Python and
-    Git/GitHub and are eager to be embedded in an open, interdisciplinary team.
 - Submission: doeproj101s1
   Status (This Stage): Accept (Unconfirmed)
   First/Given Names (first): Khaled
@@ -1263,8 +1231,8 @@
     accelerate scientific discovery.
 - Submission: doeproj103s1
   Status (This Stage): Accept (Unconfirmed)
-  First/Given Names (first): arianna
-  Last/Family Name (first): formenti
+  First/Given Names (first): Arianna
+  Last/Family Name (first): Formenti
   Email (first): ariannaformenti@lbl.gov
   Company/Institution (first): LBNL
   SRP Project Title (first): Physics simulations and code development for plasma and/or
@@ -1825,3 +1793,83 @@
     life with her three children and three dogs. Looking ahead, Kathryn aspires to
     continue pushing the boundaries of computational science while encouraging others
     to confront ubiquitous uncertainty in their work.
+- Submission: doeproj117s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): George K.
+  Last/Family Name (first): Thiruvathukal
+  Email (first): gthiruvathukal@luc.edu
+  Company/Institution (first): Loyola University, Chicago
+  Photograph (first): 'jpg Information Type: jpgSize: 144KBUploaded: SundayMD5: 8bbb838029b22c9ca94c6611ee9d5951Original
+    Name: Thiruvathukal_500... view move to AWS'
+  SRP Project Title (first): Software Engineering for Science in the AI Era
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Artificial Intelligence and Intelligent Systems; Computer Science;
+    Open Source Software; Sociology; Software Engineering; Statistics and Probability
+  Brief Abstract (200 words) (first): This project investigates how researchers across
+    scientific disciplines are reusing modern AI technologies—including pre-trained
+    models (PTMs) and intelligent agents—in their research workflows. Although deep
+    learning and related AI methods have transformed computational practice, training
+    large models or building advanced agents remains costly and technically complex.
+    As a result, many research communities increasingly rely on existing models and
+    agent frameworks, yet we know relatively little about how this reuse is occurring
+    outside computer science. Our study combines manual analysis with large-scale
+    automated methods to develop a clearer understanding of AI reuse in practice.
+    We are examining open-access scientific articles, datasets, and software projects
+    to determine when AI technologies are reused, which types are most prevalent,
+    and how researchers adapt or repurpose them for domain-specific tasks. Processing
+    and analysis will be performed on advanced high-performance computing resources
+    at Argonne National Laboratory to support large-scale document and data processing.
+    We also classify reuse strategies using established software engineering taxonomies
+    and analyze the relationship between reuse and scientific impact. Students joining
+    the project will participate in empirical analysis, automated document processing,
+    and user-study components to understand how scientists adopt, adapt, and evaluate
+    emerging AI tools in their work.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): We
+    welcome students with solid Linux and Python skills. Above all else, we value
+    problem solving skills, effective communication and collaboration skills. We will
+    consider students from any major, especially those in science and engineering
+    programs that emphasize learning at least a little bit of computer science!
+  Lightning Talk Title (Maximum 10 words): AI usage across scientific disciplines
+    using large-scale analysis
+  Keywords (Maximum 20 words): software engineering; mining software repositories;
+    mixed-methods; statistical methods; Python; Linux; open source; open access; high-performance
+    computing; distributed systems
+  Biography (Maximum 200 words): George K. Thiruvathukal is a professor of computer
+    science and the department chairperson at Loyola University Chicago and is a visiting
+    computer scientist at Argonne National Laboratory. His research interests include
+    high-performance computing, distributed systems, software engineering, machine
+    learning, and computer vision. Thiruvathukal received a Ph.D. from Illinois Institute
+    of Technology.
+- Submission: doeproj118s1
+  Status (This Stage): Accept (Unconfirmed)
+  First/Given Names (first): Navamita
+  Last/Family Name (first): Ray
+  Email (first): nray@lanl.gov
+  Company/Institution (first): LANL
+  Department (first): CAI1
+  SRP Project Title (first): Automatic Shape Matching for Complex 3D CAD Models
+  'Please select all the topical areas that apply to your project: (first)': Applied
+    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
+    Systems
+  Brief Abstract (200 words) (first): Automatic hexahedral mesh generation for general
+    3D shapes is an open problem. This internship will explore machine learning methods
+    for automating shape recognition within complex models that would aid in mesh
+    generation via application of domain knowledge specific templates.
+  Desired relevant skills, background, or interests (don't be too prescriptive) (first): Software
+    skills such as familiarity with using unix commands, copying files to and fro
+    from remote systems, etc. Programming skills such as a basic knowledge of compiled
+    (C/C++) and interpreted languages (python). ML skills such as basic knowledge
+    of supervised learning and other standard ML approaches.
+  Lightning Talk Title (Maximum 10 words): Automatic Shape Matching for Complex 3D
+    CAD Models
+  Keywords (Maximum 20 words): Geometric modeling, shape matching, machine learning
+  Biography (Maximum 200 words): Navamita Ray is a staff scientist in the co-design
+    team in CCS-7 with expertise in meshing and numerical methods. She has worked
+    on developing various mesh-based algorithms such as surface reconstruction, optimization
+    and adaptivity targeted towards high-order numerical methods as well as designing
+    unstructured mesh data structures for parallel computing. At LANL, she has worked
+    on developing software libraries for upcoming exascale machines such as the runtime
+    library FleCSI and mesh-to-mesh data remapping library, Portage, to perform inline
+    remapping and link LANL application codes. She is involved in developing meshing
+    capabilities in the Crosslink library, which is LANL’s in-house mesh generation
+    code as well as exploring machine learning for mesh generation problems.

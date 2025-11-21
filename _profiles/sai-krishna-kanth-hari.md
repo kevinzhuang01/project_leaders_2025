@@ -3,9 +3,9 @@ layout: profile
 name: Sai Krishna Kanth Hari
 first_name: Sai Krishna Kanth
 last_name: Hari
-photo: sai_krishna_hari.jpg
 email: hskkanth@lanl.gov
 institution: Los Alamos National Laboratory
+photo: sai_krishna_hari.jpg
 biography: Research scientist with interests in critical infrastructure network planning,
   autonomous vehicle planning and applied optimization. Background in civil and mechanical
   engineering.

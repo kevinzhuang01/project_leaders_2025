@@ -3,10 +3,10 @@ layout: profile
 name: Kevin A. Brown
 first_name: Kevin A.
 last_name: Brown
-photo: kevin_a_brown.jpg
 email: kabrown@anl.gov
 institution: Argonne National Laboratory (ANL)
 department: Mathematics and Computer Science Division
+photo: kevin_a_brown.jpg
 website: https://www.anl.gov/profile/kevin-a-brown
 biography: Kevin A. Brown is the Assistant Computer Scientist at Argonne National
   Laboratory where he investigates new designs for supercomputer networks. He received
